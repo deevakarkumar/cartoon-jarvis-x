@@ -1,0 +1,176 @@
+{
+  "title": "Locked Inside for 30 Days: The Survival Story",
+  "duration": 53.37,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 9.57,
+      "line": "Shaam 4:07 baje. School ke saare darwaze achanak lock ho jaate hain... Click.",
+      "scene": "day_one_hook - bedroom",
+      "set": "bedroom",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: day_one_hook"
+    },
+    {
+      "id": "s002",
+      "start": 9.57,
+      "end": 18.1,
+      "line": "Andar sirf 2 log bache hain. Ek aap... aur ek wo jisse aapne kabhi baat nahi ki.",
+      "scene": "the_setup - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "pop",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_setup"
+    },
+    {
+      "id": "s003",
+      "start": 18.1,
+      "end": 27.57,
+      "line": "Day 3: Vending machine ke 84 snacks khatam ho chuke hain. Survival shuru hota hai.",
+      "scene": "day_three_crisis - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: day_three_crisis"
+    },
+    {
+      "id": "s004",
+      "start": 27.57,
+      "end": 36.44,
+      "line": "Day 10: Khidki ke bahar 20 lakh log live dekh rahe hain. Par andar sannaata hai.",
+      "scene": "day_ten_scale - bedroom",
+      "set": "bedroom",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "ding",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: day_ten_scale"
+    },
+    {
+      "id": "s005",
+      "start": 36.44,
+      "end": 44.81,
+      "line": "Day 21: Bahar minus 15 degree thand hai... aur heating system band ho jata hai.",
+      "scene": "day_twenty_breaking_point - ruinsWasteland",
+      "set": "ruinsWasteland",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "slowmo",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: day_twenty_breaking_point"
+    },
+    {
+      "id": "s006",
+      "start": 44.81,
+      "end": 52.17,
+      "line": "Ab yeh game nahi raha. Agar aap fass gaye, toh aap pehla kadam kya uthayenge?",
+      "scene": "climax_choice - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: climax_choice"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 18.68,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 18.68,
+      "end": 40.03,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 40.03,
+      "end": 53.37,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

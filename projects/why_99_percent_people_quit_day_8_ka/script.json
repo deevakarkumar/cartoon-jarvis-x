@@ -1,0 +1,308 @@
+{
+  "title": "Why 99 Percent People Quit Day 8 Ka Shocking Sach!",
+  "topic": "Why 99 Percent People Quit Day 8",
+  "language": "hi",
+  "is_5min": true,
+  "aspect_ratio": "16:9",
+  "bg_style": "dusk_space",
+  "youtube_kit": {
+    "viral_titles": [
+      "Why 99 Percent People Quit Day 8 Ka Shocking Sach! 😱",
+      "Why 99% of People Get Why 99 Percent People Quit Day 8 Completely Wrong",
+      "The 10x Secret of Why 99 Percent People Quit Day 8 Explained"
+    ],
+    "seo_description": "Exploring the fascinating reality of Why 99 Percent People Quit Day 8! What happens to human psychology, everyday life, and society?\n\n#Animation #ViralShorts #Story #Education",
+    "tags": [
+      "Why 99 Percent People Quit Day 8",
+      "truth about Why 99 Percent People Quit Day 8",
+      "stick figure animation",
+      "viral shorts",
+      "educational animation"
+    ],
+    "hashtags": [
+      "#Shorts",
+      "#Viral",
+      "#Story",
+      "#Animation"
+    ],
+    "pinned_comment": "Aapke mutabiq Why 99 Percent People Quit Day 8 par aapki kya raye hai? Comment karein! 👇",
+    "thumbnail_hook": "KISI KO NAHI PATA?!",
+    "thumbnail_prop": "target_bullseye"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "beat": "cold_hook",
+      "narration": "Agar aap Why 99 Percent People Quit Day 8 ko ignore kar rahe hain... toh sabse badi galti kar rahe hain.",
+      "char_pose": "pointing",
+      "expression": "shocked",
+      "shot_type": "standard",
+      "bg_style": "office_workspace",
+      "props": [
+        {
+          "type": "target_bullseye",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "drone_hit"
+    },
+    {
+      "scene_id": 2,
+      "beat": "the_paradox",
+      "narration": "Duniya sochti hai ki yeh aasan hai... lekin statistics kuch aur hi kadwa sach batate hain.",
+      "char_pose": "thinking",
+      "expression": "thinking",
+      "shot_type": "standard",
+      "bg_style": "outdoor_park",
+      "sfx": "pop"
+    },
+    {
+      "scene_id": 3,
+      "beat": "studio_analytics",
+      "narration": "Data dekhiye: 94% log shuru karte hain, lekin sirf 6% log actual breakthrough tak pahunchte hain.",
+      "char_pose": "pointing",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_light",
+      "sfx": "ding",
+      "bar_chart": {
+        "title": "GLOBAL RETENTION METRIC",
+        "bars": [
+          {
+            "label": "Day 1 Starters",
+            "value": 94,
+            "color": "#06b6d4"
+          },
+          {
+            "label": "Week 2 Drop",
+            "value": 38,
+            "color": "#f59e0b"
+          },
+          {
+            "label": "Top Masters",
+            "value": 6,
+            "color": "#10b981"
+          }
+        ]
+      },
+      "stage_badge": {
+        "num": 1,
+        "title": "THE BIG PARADOX"
+      }
+    },
+    {
+      "scene_id": 4,
+      "beat": "the_first_action",
+      "narration": "Shuru me sab theek lagta hai. Dopamine high hota hai aur motivation aag jaisa chamakta hai.",
+      "char_pose": "running",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "outdoor_park",
+      "sfx": "whoosh"
+    },
+    {
+      "scene_id": 5,
+      "beat": "studio_disruption",
+      "narration": "Yahin sabse bada trap hai: Log temporary motivation ko permanent system samajh lete hain.",
+      "char_pose": "explaining",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_light",
+      "sfx": "shatter",
+      "comparison_split": {
+        "left": {
+          "title": "99% AMATEUR TRAP",
+          "points": [
+            "Wait for inspiration",
+            "Emotional inconsistency",
+            "Quit at first resistance"
+          ]
+        },
+        "right": {
+          "title": "1% MASTER PROTOCOL",
+          "points": [
+            "Non-negotiable daily habits",
+            "Systems over feelings",
+            "Compounding focus"
+          ]
+        }
+      },
+      "stage_badge": {
+        "num": 2,
+        "title": "DISRUPTING ASSUMPTIONS"
+      }
+    },
+    {
+      "scene_id": 6,
+      "beat": "the_friction_wall",
+      "narration": "Jaise hi excitement khatam hoti hai... dimaag par thakan aur laziness ka pahaad toot padta hai.",
+      "char_pose": "slouching",
+      "expression": "exhausted",
+      "shot_type": "standard",
+      "bg_style": "outdoor_park",
+      "dark_bags": true,
+      "props": [
+        {
+          "type": "lightbulb_idea",
+          "scale": 1.1
+        }
+      ],
+      "sfx": "pop"
+    },
+    {
+      "scene_id": 7,
+      "beat": "the_breaking_point",
+      "narration": "Yeh wahi critical checkpoint hai... jahan aakar 90 percent log chup-chaap haar maan lete hain.",
+      "char_pose": "exhausted",
+      "expression": "shocked",
+      "shot_type": "standard",
+      "bg_style": "hospital_lab",
+      "sfx": "shatter"
+    },
+    {
+      "scene_id": 8,
+      "beat": "studio_resistance_gauge",
+      "narration": "Science isse 'The Dip' kehti hai—jahan aapka dimag purani aaraam-parast aadat me lautne ki zidd karta hai.",
+      "char_pose": "thinking",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_dark",
+      "sfx": "ding",
+      "circular_gauge": {
+        "value": 91,
+        "label": "RESISTANCE PEAK",
+        "unit": "%"
+      },
+      "stage_badge": {
+        "num": 3,
+        "title": "UNVEILING THE MECHANISM"
+      }
+    },
+    {
+      "scene_id": 9,
+      "beat": "the_turning_point",
+      "narration": "Lekin jo log rukte nahi... unka dimaag naye neural pathways construct karna shuru karta hai.",
+      "char_pose": "standing",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "office_workspace",
+      "sfx": "ding"
+    },
+    {
+      "scene_id": 10,
+      "beat": "the_deep_focus",
+      "narration": "Achanak, jo cheez kal tak pahaad lag rahi thi... wo aapki second nature ban jaati hai.",
+      "char_pose": "typing",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "office_workspace",
+      "sfx": "pop"
+    },
+    {
+      "scene_id": 11,
+      "beat": "studio_truth_revelation",
+      "narration": "Kamyabi koi lottery nahi hai—yeh sirf unshakeable execution aur compounding ka mathematics hai.",
+      "char_pose": "pointing",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_light",
+      "sfx": "ding",
+      "glass_card": {
+        "title": "THE MATHEMATICAL TRUTH",
+        "subtitle": "Small daily disciplines repeated consistently create massive exponential advantage."
+      },
+      "stage_badge": {
+        "num": 4,
+        "title": "ULTIMATE TRUTH REVELATION"
+      }
+    },
+    {
+      "scene_id": 12,
+      "beat": "the_compounding_surge",
+      "narration": "Ek baar jab momentum lock ho gaya... toh results 10 guna tezi se multiply hote hain.",
+      "char_pose": "lifting",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "city_street",
+      "props": [
+        {
+          "type": "trophy_cup",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "pop"
+    },
+    {
+      "scene_id": 13,
+      "beat": "the_breakthrough_moment",
+      "narration": "Jo kal tak impossible lag raha tha... aaj aapka normal standard ban chuka hai.",
+      "char_pose": "celebrating",
+      "expression": "happy",
+      "shot_type": "standard",
+      "bg_style": "city_street",
+      "sfx": "pop"
+    },
+    {
+      "scene_id": 14,
+      "beat": "the_mastery_level",
+      "narration": "Aap aam bheed se nikal kar... top 1 percent tier ke andar establish ho chuke hain.",
+      "char_pose": "standing",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_light",
+      "aura": 0.5
+    },
+    {
+      "scene_id": 15,
+      "beat": "the_core_philosophy",
+      "narration": "Mastery ka ek hi rule hai: Kabhi mood ka intezaar mat karo. Action pehle lo, mood khud follow karega.",
+      "char_pose": "cheer",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_light",
+      "sfx": "ding"
+    },
+    {
+      "scene_id": 16,
+      "beat": "the_challenge_cta",
+      "narration": "Aapka Why 99 Percent People Quit Day 8 par kya nazariya hai? Niche comment me zaroor batayein!",
+      "char_pose": "pointing",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_dark",
+      "sfx": "title_boom",
+      "stage_badge": {
+        "num": 5,
+        "title": "COMMUNITY DEBATE"
+      }
+    }
+  ],
+  "source": "smart_offline_engine",
+  "primary_prop": "dna_strand",
+  "science_metric": {
+    "title": "SYSTEM DEVIATION LIMIT",
+    "subtitle": "CRITICAL HOMEOSTASIS INDEX",
+    "from": 1.0,
+    "to": 10.0,
+    "unit": "x",
+    "label_start": "Normal (1x)",
+    "label_mid": "Threshold (4x)",
+    "label_end": "Critical (10x)"
+  },
+  "comparison_bars": [
+    {
+      "label": "NORMAL RANGE",
+      "v": 0.28,
+      "color": "#7ee787"
+    },
+    {
+      "label": "CRITICAL RISK",
+      "v": 0.95,
+      "color": "#ff5555"
+    }
+  ],
+  "crisis_alert": {
+    "label": "CRITICAL ALERT",
+    "value": "LIMIT EXCEEDED"
+  }
+}

@@ -1,0 +1,1289 @@
+{
+  "words": [
+    {
+      "word": "Agar",
+      "start": 0.1,
+      "end": 0.537
+    },
+    {
+      "word": "aap",
+      "start": 0.537,
+      "end": 0.975
+    },
+    {
+      "word": "Why",
+      "start": 0.975,
+      "end": 1.413
+    },
+    {
+      "word": "99",
+      "start": 1.413,
+      "end": 1.85
+    },
+    {
+      "word": "Percent",
+      "start": 1.85,
+      "end": 2.288
+    },
+    {
+      "word": "People",
+      "start": 2.288,
+      "end": 2.725
+    },
+    {
+      "word": "Quit",
+      "start": 2.725,
+      "end": 3.163
+    },
+    {
+      "word": "Day",
+      "start": 3.163,
+      "end": 3.6
+    },
+    {
+      "word": "8",
+      "start": 3.6,
+      "end": 4.037
+    },
+    {
+      "word": "ko",
+      "start": 4.037,
+      "end": 4.475
+    },
+    {
+      "word": "ignore",
+      "start": 4.475,
+      "end": 4.912
+    },
+    {
+      "word": "kar",
+      "start": 4.912,
+      "end": 5.35
+    },
+    {
+      "word": "rahe",
+      "start": 5.35,
+      "end": 5.787
+    },
+    {
+      "word": "hain...",
+      "start": 5.787,
+      "end": 6.225
+    },
+    {
+      "word": "toh",
+      "start": 6.225,
+      "end": 6.662
+    },
+    {
+      "word": "sabse",
+      "start": 6.662,
+      "end": 7.1
+    },
+    {
+      "word": "badi",
+      "start": 7.1,
+      "end": 7.537
+    },
+    {
+      "word": "galti",
+      "start": 7.537,
+      "end": 7.975
+    },
+    {
+      "word": "kar",
+      "start": 7.975,
+      "end": 8.412
+    },
+    {
+      "word": "rahe",
+      "start": 8.412,
+      "end": 8.85
+    },
+    {
+      "word": "hain.",
+      "start": 8.85,
+      "end": 9.287
+    },
+    {
+      "word": "Duniya",
+      "start": 9.74,
+      "end": 10.202
+    },
+    {
+      "word": "sochti",
+      "start": 10.202,
+      "end": 10.663
+    },
+    {
+      "word": "hai",
+      "start": 10.663,
+      "end": 11.125
+    },
+    {
+      "word": "ki",
+      "start": 11.125,
+      "end": 11.587
+    },
+    {
+      "word": "yeh",
+      "start": 11.587,
+      "end": 12.049
+    },
+    {
+      "word": "aasan",
+      "start": 12.049,
+      "end": 12.51
+    },
+    {
+      "word": "hai...",
+      "start": 12.51,
+      "end": 12.972
+    },
+    {
+      "word": "lekin",
+      "start": 12.972,
+      "end": 13.434
+    },
+    {
+      "word": "statistics",
+      "start": 13.434,
+      "end": 13.895
+    },
+    {
+      "word": "kuch",
+      "start": 13.895,
+      "end": 14.357
+    },
+    {
+      "word": "aur",
+      "start": 14.357,
+      "end": 14.819
+    },
+    {
+      "word": "hi",
+      "start": 14.819,
+      "end": 15.281
+    },
+    {
+      "word": "kadwa",
+      "start": 15.281,
+      "end": 15.742
+    },
+    {
+      "word": "sach",
+      "start": 15.742,
+      "end": 16.204
+    },
+    {
+      "word": "batate",
+      "start": 16.204,
+      "end": 16.666
+    },
+    {
+      "word": "hain.",
+      "start": 16.666,
+      "end": 17.127
+    },
+    {
+      "word": "Data",
+      "start": 17.58,
+      "end": 18.168
+    },
+    {
+      "word": "dekhiye:",
+      "start": 18.168,
+      "end": 18.755
+    },
+    {
+      "word": "94%",
+      "start": 18.755,
+      "end": 19.343
+    },
+    {
+      "word": "log",
+      "start": 19.343,
+      "end": 19.93
+    },
+    {
+      "word": "shuru",
+      "start": 19.93,
+      "end": 20.518
+    },
+    {
+      "word": "karte",
+      "start": 20.518,
+      "end": 21.105
+    },
+    {
+      "word": "hain,",
+      "start": 21.105,
+      "end": 21.693
+    },
+    {
+      "word": "lekin",
+      "start": 21.692,
+      "end": 22.28
+    },
+    {
+      "word": "sirf",
+      "start": 22.28,
+      "end": 22.868
+    },
+    {
+      "word": "6%",
+      "start": 22.868,
+      "end": 23.455
+    },
+    {
+      "word": "log",
+      "start": 23.455,
+      "end": 24.042
+    },
+    {
+      "word": "actual",
+      "start": 24.042,
+      "end": 24.63
+    },
+    {
+      "word": "breakthrough",
+      "start": 24.63,
+      "end": 25.218
+    },
+    {
+      "word": "tak",
+      "start": 25.217,
+      "end": 25.805
+    },
+    {
+      "word": "pahunchte",
+      "start": 25.805,
+      "end": 26.392
+    },
+    {
+      "word": "hain.",
+      "start": 26.392,
+      "end": 26.98
+    },
+    {
+      "word": "Shuru",
+      "start": 27.43,
+      "end": 27.982
+    },
+    {
+      "word": "me",
+      "start": 27.982,
+      "end": 28.534
+    },
+    {
+      "word": "sab",
+      "start": 28.534,
+      "end": 29.086
+    },
+    {
+      "word": "theek",
+      "start": 29.086,
+      "end": 29.638
+    },
+    {
+      "word": "lagta",
+      "start": 29.638,
+      "end": 30.19
+    },
+    {
+      "word": "hai.",
+      "start": 30.19,
+      "end": 30.743
+    },
+    {
+      "word": "Dopamine",
+      "start": 30.692,
+      "end": 31.259
+    },
+    {
+      "word": "high",
+      "start": 31.259,
+      "end": 31.825
+    },
+    {
+      "word": "hota",
+      "start": 31.825,
+      "end": 32.391
+    },
+    {
+      "word": "hai",
+      "start": 32.391,
+      "end": 32.957
+    },
+    {
+      "word": "aur",
+      "start": 32.957,
+      "end": 33.524
+    },
+    {
+      "word": "motivation",
+      "start": 33.524,
+      "end": 34.09
+    },
+    {
+      "word": "aag",
+      "start": 34.09,
+      "end": 34.656
+    },
+    {
+      "word": "jaisa",
+      "start": 34.656,
+      "end": 35.222
+    },
+    {
+      "word": "chamakta",
+      "start": 35.222,
+      "end": 35.789
+    },
+    {
+      "word": "hai.",
+      "start": 35.789,
+      "end": 36.355
+    },
+    {
+      "word": "Yahin",
+      "start": 36.88,
+      "end": 37.407
+    },
+    {
+      "word": "sabse",
+      "start": 37.407,
+      "end": 37.934
+    },
+    {
+      "word": "bada",
+      "start": 37.934,
+      "end": 38.46
+    },
+    {
+      "word": "trap",
+      "start": 38.46,
+      "end": 38.987
+    },
+    {
+      "word": "hai:",
+      "start": 38.987,
+      "end": 39.514
+    },
+    {
+      "word": "Log",
+      "start": 39.514,
+      "end": 40.041
+    },
+    {
+      "word": "temporary",
+      "start": 40.041,
+      "end": 40.568
+    },
+    {
+      "word": "motivation",
+      "start": 40.568,
+      "end": 41.094
+    },
+    {
+      "word": "ko",
+      "start": 41.094,
+      "end": 41.621
+    },
+    {
+      "word": "permanent",
+      "start": 41.621,
+      "end": 42.148
+    },
+    {
+      "word": "system",
+      "start": 42.148,
+      "end": 42.675
+    },
+    {
+      "word": "samajh",
+      "start": 42.675,
+      "end": 43.201
+    },
+    {
+      "word": "lete",
+      "start": 43.201,
+      "end": 43.728
+    },
+    {
+      "word": "hain.",
+      "start": 43.728,
+      "end": 44.255
+    },
+    {
+      "word": "Jaise",
+      "start": 44.72,
+      "end": 45.198
+    },
+    {
+      "word": "hi",
+      "start": 45.198,
+      "end": 45.676
+    },
+    {
+      "word": "excitement",
+      "start": 45.676,
+      "end": 46.154
+    },
+    {
+      "word": "khatam",
+      "start": 46.154,
+      "end": 46.633
+    },
+    {
+      "word": "hoti",
+      "start": 46.633,
+      "end": 47.111
+    },
+    {
+      "word": "hai...",
+      "start": 47.111,
+      "end": 47.589
+    },
+    {
+      "word": "dimaag",
+      "start": 47.589,
+      "end": 48.067
+    },
+    {
+      "word": "par",
+      "start": 48.067,
+      "end": 48.545
+    },
+    {
+      "word": "thakan",
+      "start": 48.545,
+      "end": 49.023
+    },
+    {
+      "word": "aur",
+      "start": 49.023,
+      "end": 49.501
+    },
+    {
+      "word": "laziness",
+      "start": 49.501,
+      "end": 49.979
+    },
+    {
+      "word": "ka",
+      "start": 49.979,
+      "end": 50.458
+    },
+    {
+      "word": "pahaad",
+      "start": 50.458,
+      "end": 50.936
+    },
+    {
+      "word": "toot",
+      "start": 50.936,
+      "end": 51.414
+    },
+    {
+      "word": "padta",
+      "start": 51.414,
+      "end": 51.892
+    },
+    {
+      "word": "hai.",
+      "start": 51.892,
+      "end": 52.37
+    },
+    {
+      "word": "Yeh",
+      "start": 52.82,
+      "end": 53.327
+    },
+    {
+      "word": "wahi",
+      "start": 53.327,
+      "end": 53.835
+    },
+    {
+      "word": "critical",
+      "start": 53.835,
+      "end": 54.343
+    },
+    {
+      "word": "checkpoint",
+      "start": 54.343,
+      "end": 54.85
+    },
+    {
+      "word": "hai...",
+      "start": 54.85,
+      "end": 55.357
+    },
+    {
+      "word": "jahan",
+      "start": 55.357,
+      "end": 55.865
+    },
+    {
+      "word": "aakar",
+      "start": 55.865,
+      "end": 56.372
+    },
+    {
+      "word": "90",
+      "start": 56.372,
+      "end": 56.88
+    },
+    {
+      "word": "percent",
+      "start": 56.88,
+      "end": 57.387
+    },
+    {
+      "word": "log",
+      "start": 57.387,
+      "end": 57.895
+    },
+    {
+      "word": "chup-chaap",
+      "start": 57.895,
+      "end": 58.402
+    },
+    {
+      "word": "haar",
+      "start": 58.402,
+      "end": 58.91
+    },
+    {
+      "word": "maan",
+      "start": 58.91,
+      "end": 59.417
+    },
+    {
+      "word": "lete",
+      "start": 59.417,
+      "end": 59.925
+    },
+    {
+      "word": "hain.",
+      "start": 59.925,
+      "end": 60.432
+    },
+    {
+      "word": "Science",
+      "start": 60.9,
+      "end": 61.401
+    },
+    {
+      "word": "isse",
+      "start": 61.401,
+      "end": 61.903
+    },
+    {
+      "word": "'The",
+      "start": 61.903,
+      "end": 62.404
+    },
+    {
+      "word": "Dip'",
+      "start": 62.404,
+      "end": 62.906
+    },
+    {
+      "word": "kehti",
+      "start": 62.906,
+      "end": 63.407
+    },
+    {
+      "word": "hai\u2014jahan",
+      "start": 63.407,
+      "end": 63.909
+    },
+    {
+      "word": "aapka",
+      "start": 63.909,
+      "end": 64.41
+    },
+    {
+      "word": "dimag",
+      "start": 64.41,
+      "end": 64.912
+    },
+    {
+      "word": "purani",
+      "start": 64.912,
+      "end": 65.413
+    },
+    {
+      "word": "aaraam-parast",
+      "start": 65.413,
+      "end": 65.915
+    },
+    {
+      "word": "aadat",
+      "start": 65.915,
+      "end": 66.416
+    },
+    {
+      "word": "me",
+      "start": 66.416,
+      "end": 66.918
+    },
+    {
+      "word": "lautne",
+      "start": 66.918,
+      "end": 67.419
+    },
+    {
+      "word": "ki",
+      "start": 67.419,
+      "end": 67.921
+    },
+    {
+      "word": "zidd",
+      "start": 67.921,
+      "end": 68.422
+    },
+    {
+      "word": "karta",
+      "start": 68.422,
+      "end": 68.924
+    },
+    {
+      "word": "hai.",
+      "start": 68.924,
+      "end": 69.425
+    },
+    {
+      "word": "Lekin",
+      "start": 69.89,
+      "end": 70.399
+    },
+    {
+      "word": "jo",
+      "start": 70.399,
+      "end": 70.908
+    },
+    {
+      "word": "log",
+      "start": 70.908,
+      "end": 71.417
+    },
+    {
+      "word": "rukte",
+      "start": 71.417,
+      "end": 71.927
+    },
+    {
+      "word": "nahi...",
+      "start": 71.927,
+      "end": 72.436
+    },
+    {
+      "word": "unka",
+      "start": 72.436,
+      "end": 72.945
+    },
+    {
+      "word": "dimaag",
+      "start": 72.945,
+      "end": 73.454
+    },
+    {
+      "word": "naye",
+      "start": 73.454,
+      "end": 73.963
+    },
+    {
+      "word": "neural",
+      "start": 73.963,
+      "end": 74.472
+    },
+    {
+      "word": "pathways",
+      "start": 74.472,
+      "end": 74.982
+    },
+    {
+      "word": "construct",
+      "start": 74.982,
+      "end": 75.491
+    },
+    {
+      "word": "karna",
+      "start": 75.491,
+      "end": 76.0
+    },
+    {
+      "word": "shuru",
+      "start": 76.0,
+      "end": 76.509
+    },
+    {
+      "word": "karta",
+      "start": 76.509,
+      "end": 77.018
+    },
+    {
+      "word": "hai.",
+      "start": 77.018,
+      "end": 77.527
+    },
+    {
+      "word": "Achanak,",
+      "start": 77.99,
+      "end": 78.438
+    },
+    {
+      "word": "jo",
+      "start": 78.438,
+      "end": 78.887
+    },
+    {
+      "word": "cheez",
+      "start": 78.887,
+      "end": 79.335
+    },
+    {
+      "word": "kal",
+      "start": 79.335,
+      "end": 79.784
+    },
+    {
+      "word": "tak",
+      "start": 79.784,
+      "end": 80.232
+    },
+    {
+      "word": "pahaad",
+      "start": 80.232,
+      "end": 80.681
+    },
+    {
+      "word": "lag",
+      "start": 80.681,
+      "end": 81.129
+    },
+    {
+      "word": "rahi",
+      "start": 81.129,
+      "end": 81.578
+    },
+    {
+      "word": "thi...",
+      "start": 81.578,
+      "end": 82.026
+    },
+    {
+      "word": "wo",
+      "start": 82.026,
+      "end": 82.474
+    },
+    {
+      "word": "aapki",
+      "start": 82.474,
+      "end": 82.923
+    },
+    {
+      "word": "second",
+      "start": 82.923,
+      "end": 83.371
+    },
+    {
+      "word": "nature",
+      "start": 83.371,
+      "end": 83.82
+    },
+    {
+      "word": "ban",
+      "start": 83.82,
+      "end": 84.268
+    },
+    {
+      "word": "jaati",
+      "start": 84.268,
+      "end": 84.717
+    },
+    {
+      "word": "hai.",
+      "start": 84.717,
+      "end": 85.165
+    },
+    {
+      "word": "Kamyabi",
+      "start": 85.64,
+      "end": 86.258
+    },
+    {
+      "word": "koi",
+      "start": 86.258,
+      "end": 86.877
+    },
+    {
+      "word": "lottery",
+      "start": 86.877,
+      "end": 87.495
+    },
+    {
+      "word": "nahi",
+      "start": 87.495,
+      "end": 88.113
+    },
+    {
+      "word": "hai\u2014yeh",
+      "start": 88.113,
+      "end": 88.731
+    },
+    {
+      "word": "sirf",
+      "start": 88.731,
+      "end": 89.35
+    },
+    {
+      "word": "unshakeable",
+      "start": 89.35,
+      "end": 89.968
+    },
+    {
+      "word": "execution",
+      "start": 89.968,
+      "end": 90.586
+    },
+    {
+      "word": "aur",
+      "start": 90.586,
+      "end": 91.204
+    },
+    {
+      "word": "compounding",
+      "start": 91.204,
+      "end": 91.823
+    },
+    {
+      "word": "ka",
+      "start": 91.823,
+      "end": 92.441
+    },
+    {
+      "word": "mathematics",
+      "start": 92.441,
+      "end": 93.059
+    },
+    {
+      "word": "hai.",
+      "start": 93.059,
+      "end": 93.677
+    },
+    {
+      "word": "Ek",
+      "start": 94.13,
+      "end": 94.581
+    },
+    {
+      "word": "baar",
+      "start": 94.581,
+      "end": 95.032
+    },
+    {
+      "word": "jab",
+      "start": 95.032,
+      "end": 95.482
+    },
+    {
+      "word": "momentum",
+      "start": 95.482,
+      "end": 95.933
+    },
+    {
+      "word": "lock",
+      "start": 95.933,
+      "end": 96.384
+    },
+    {
+      "word": "ho",
+      "start": 96.384,
+      "end": 96.835
+    },
+    {
+      "word": "gaya...",
+      "start": 96.835,
+      "end": 97.285
+    },
+    {
+      "word": "toh",
+      "start": 97.285,
+      "end": 97.736
+    },
+    {
+      "word": "results",
+      "start": 97.736,
+      "end": 98.187
+    },
+    {
+      "word": "10",
+      "start": 98.187,
+      "end": 98.638
+    },
+    {
+      "word": "guna",
+      "start": 98.638,
+      "end": 99.089
+    },
+    {
+      "word": "tezi",
+      "start": 99.089,
+      "end": 99.539
+    },
+    {
+      "word": "se",
+      "start": 99.539,
+      "end": 99.99
+    },
+    {
+      "word": "multiply",
+      "start": 99.99,
+      "end": 100.441
+    },
+    {
+      "word": "hote",
+      "start": 100.441,
+      "end": 100.892
+    },
+    {
+      "word": "hain.",
+      "start": 100.892,
+      "end": 101.342
+    },
+    {
+      "word": "Jo",
+      "start": 101.8,
+      "end": 102.294
+    },
+    {
+      "word": "kal",
+      "start": 102.294,
+      "end": 102.787
+    },
+    {
+      "word": "tak",
+      "start": 102.787,
+      "end": 103.281
+    },
+    {
+      "word": "impossible",
+      "start": 103.281,
+      "end": 103.775
+    },
+    {
+      "word": "lag",
+      "start": 103.775,
+      "end": 104.269
+    },
+    {
+      "word": "raha",
+      "start": 104.269,
+      "end": 104.762
+    },
+    {
+      "word": "tha...",
+      "start": 104.762,
+      "end": 105.256
+    },
+    {
+      "word": "aaj",
+      "start": 105.256,
+      "end": 105.75
+    },
+    {
+      "word": "aapka",
+      "start": 105.75,
+      "end": 106.244
+    },
+    {
+      "word": "normal",
+      "start": 106.244,
+      "end": 106.737
+    },
+    {
+      "word": "standard",
+      "start": 106.737,
+      "end": 107.231
+    },
+    {
+      "word": "ban",
+      "start": 107.231,
+      "end": 107.725
+    },
+    {
+      "word": "chuka",
+      "start": 107.725,
+      "end": 108.219
+    },
+    {
+      "word": "hai.",
+      "start": 108.219,
+      "end": 108.712
+    },
+    {
+      "word": "Aap",
+      "start": 109.18,
+      "end": 109.617
+    },
+    {
+      "word": "aam",
+      "start": 109.617,
+      "end": 110.055
+    },
+    {
+      "word": "bheed",
+      "start": 110.055,
+      "end": 110.493
+    },
+    {
+      "word": "se",
+      "start": 110.493,
+      "end": 110.93
+    },
+    {
+      "word": "nikal",
+      "start": 110.93,
+      "end": 111.368
+    },
+    {
+      "word": "kar...",
+      "start": 111.368,
+      "end": 111.805
+    },
+    {
+      "word": "top",
+      "start": 111.805,
+      "end": 112.243
+    },
+    {
+      "word": "1",
+      "start": 112.243,
+      "end": 112.68
+    },
+    {
+      "word": "percent",
+      "start": 112.68,
+      "end": 113.117
+    },
+    {
+      "word": "tier",
+      "start": 113.117,
+      "end": 113.555
+    },
+    {
+      "word": "ke",
+      "start": 113.555,
+      "end": 113.992
+    },
+    {
+      "word": "andar",
+      "start": 113.992,
+      "end": 114.43
+    },
+    {
+      "word": "establish",
+      "start": 114.43,
+      "end": 114.867
+    },
+    {
+      "word": "ho",
+      "start": 114.867,
+      "end": 115.305
+    },
+    {
+      "word": "chuke",
+      "start": 115.305,
+      "end": 115.742
+    },
+    {
+      "word": "hain.",
+      "start": 115.742,
+      "end": 116.18
+    },
+    {
+      "word": "Mastery",
+      "start": 116.63,
+      "end": 117.063
+    },
+    {
+      "word": "ka",
+      "start": 117.063,
+      "end": 117.497
+    },
+    {
+      "word": "ek",
+      "start": 117.497,
+      "end": 117.93
+    },
+    {
+      "word": "hi",
+      "start": 117.93,
+      "end": 118.363
+    },
+    {
+      "word": "rule",
+      "start": 118.363,
+      "end": 118.797
+    },
+    {
+      "word": "hai:",
+      "start": 118.797,
+      "end": 119.23
+    },
+    {
+      "word": "Kabhi",
+      "start": 119.23,
+      "end": 119.663
+    },
+    {
+      "word": "mood",
+      "start": 119.663,
+      "end": 120.097
+    },
+    {
+      "word": "ka",
+      "start": 120.097,
+      "end": 120.53
+    },
+    {
+      "word": "intezaar",
+      "start": 120.53,
+      "end": 120.963
+    },
+    {
+      "word": "mat",
+      "start": 120.963,
+      "end": 121.397
+    },
+    {
+      "word": "karo.",
+      "start": 121.397,
+      "end": 121.83
+    },
+    {
+      "word": "Action",
+      "start": 121.78,
+      "end": 122.319
+    },
+    {
+      "word": "pehle",
+      "start": 122.319,
+      "end": 122.859
+    },
+    {
+      "word": "lo,",
+      "start": 122.859,
+      "end": 123.398
+    },
+    {
+      "word": "mood",
+      "start": 123.398,
+      "end": 123.937
+    },
+    {
+      "word": "khud",
+      "start": 123.937,
+      "end": 124.476
+    },
+    {
+      "word": "follow",
+      "start": 124.476,
+      "end": 125.016
+    },
+    {
+      "word": "karega.",
+      "start": 125.016,
+      "end": 125.555
+    },
+    {
+      "word": "Aapka",
+      "start": 126.08,
+      "end": 126.573
+    },
+    {
+      "word": "Why",
+      "start": 126.573,
+      "end": 127.065
+    },
+    {
+      "word": "99",
+      "start": 127.065,
+      "end": 127.558
+    },
+    {
+      "word": "Percent",
+      "start": 127.558,
+      "end": 128.051
+    },
+    {
+      "word": "People",
+      "start": 128.051,
+      "end": 128.544
+    },
+    {
+      "word": "Quit",
+      "start": 128.544,
+      "end": 129.036
+    },
+    {
+      "word": "Day",
+      "start": 129.036,
+      "end": 129.529
+    },
+    {
+      "word": "8",
+      "start": 129.529,
+      "end": 130.022
+    },
+    {
+      "word": "par",
+      "start": 130.022,
+      "end": 130.514
+    },
+    {
+      "word": "kya",
+      "start": 130.514,
+      "end": 131.007
+    },
+    {
+      "word": "nazariya",
+      "start": 131.007,
+      "end": 131.5
+    },
+    {
+      "word": "hai?",
+      "start": 131.5,
+      "end": 131.992
+    },
+    {
+      "word": "Niche",
+      "start": 131.943,
+      "end": 132.52
+    },
+    {
+      "word": "comment",
+      "start": 132.52,
+      "end": 133.097
+    },
+    {
+      "word": "me",
+      "start": 133.098,
+      "end": 133.675
+    },
+    {
+      "word": "zaroor",
+      "start": 133.675,
+      "end": 134.253
+    },
+    {
+      "word": "batayein!",
+      "start": 134.253,
+      "end": 134.83
+    }
+  ]
+}

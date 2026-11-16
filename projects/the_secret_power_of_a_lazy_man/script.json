@@ -1,0 +1,155 @@
+{
+  "title": "The Secret Power of a Lazy Man",
+  "topic": "Story of a Lazy Man who Changed His Life",
+  "language": "hi",
+  "is_5min": false,
+  "aspect_ratio": "9:16",
+  "bg_style": "cozy_bedroom",
+  "youtube_kit": {
+    "viral_titles": [
+      "The Shocking Truth About Lazy People! 🛋️",
+      "Why Being Lazy Might Mean You're a Genius!",
+      "Story of a Lazy Man: The Ultimate Brain Hack"
+    ],
+    "seo_description": "Is being lazy secretly a sign of high efficiency? We explore the evolutionary science and psychology behind procrastination and genius!\n\n#Story #Psychology #Animation #Productivity #Shorts",
+    "tags": [
+      "story of a lazy man",
+      "procrastination psychology",
+      "productivity hacks",
+      "stick figure animation",
+      "viral shorts",
+      "educational animation"
+    ],
+    "hashtags": [
+      "#Shorts",
+      "#Motivation",
+      "#Psychology",
+      "#Viral"
+    ],
+    "pinned_comment": "Aap din me kitne ghante aalsi feel karte hain? Honest answer comment karein! 👇",
+    "thumbnail_hook": "LAZY YA GENIUS?!",
+    "thumbnail_prop": "alarm_clock"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "beat": "cold_hook",
+      "narration": "Subah 7:00 baje. Alarm 40 minute se baj raha hai... par aap hile bhi nahi.",
+      "char_pose": "lying",
+      "expression": "sleepy",
+      "shot_type": "standard",
+      "bg_style": "cozy_bedroom",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "alarm_clock",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "drone_hit"
+    },
+    {
+      "scene_id": 2,
+      "beat": "character_flaw",
+      "narration": "Duniya aapko aalsi kehti hai. Par sach yeh hai... aapka dimaag energy bacha raha hai.",
+      "char_pose": "slouching",
+      "expression": "smirk",
+      "shot_type": "standard",
+      "bg_style": "cozy_bedroom",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "phone_device",
+          "scale": 1.1
+        }
+      ],
+      "sfx": "pop"
+    },
+    {
+      "scene_id": 3,
+      "beat": "the_crisis",
+      "narration": "Pahaad jaisa pending kaam. Aur sudden deadline... jo aapki neend uda deti hai!",
+      "char_pose": "panicking",
+      "expression": "shocked",
+      "shot_type": "standard",
+      "bg_style": "living_room_couch",
+      "shake": 4.0,
+      "props": [],
+      "sfx": "shatter"
+    },
+    {
+      "scene_id": 4,
+      "beat": "the_lazy_genius",
+      "narration": "Kyunki aalsi log mehnat nahi karte... wo 5 ghante ka kaam 10 minute me nipatate hain.",
+      "char_pose": "explaining",
+      "expression": "happy",
+      "shot_type": "standard",
+      "bg_style": "living_room_couch",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "clock",
+          "scale": 1.1
+        }
+      ],
+      "sfx": "ding"
+    },
+    {
+      "scene_id": 5,
+      "beat": "the_twist",
+      "narration": "Bill Gates ne ek baar kaha tha: Mushkil kaam ke liye hamesha ek aalsi insaan chuno.",
+      "char_pose": "pointing",
+      "expression": "normal",
+      "shot_type": "standard",
+      "bg_style": "webcomic_light",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "money_bag",
+          "scale": 1.1
+        }
+      ],
+      "sfx": "pop"
+    },
+    {
+      "scene_id": 6,
+      "beat": "climax_cta",
+      "narration": "Toh kya aap aalsi hain... ya smart? Comment me sach batayein aur subscribe karein!",
+      "char_pose": "hands_on_hips",
+      "expression": "happy",
+      "shot_type": "standard",
+      "bg_style": "webcomic_light",
+      "shake": 0.0,
+      "props": [],
+      "sfx": "title_boom"
+    }
+  ],
+  "source": "smart_offline_engine",
+  "primary_prop": "heart_pulse",
+  "science_metric": {
+    "title": "SYSTEM DEVIATION LIMIT",
+    "subtitle": "CRITICAL HOMEOSTASIS INDEX",
+    "from": 1.0,
+    "to": 10.0,
+    "unit": "x",
+    "label_start": "Normal (1x)",
+    "label_mid": "Threshold (4x)",
+    "label_end": "Critical (10x)"
+  },
+  "comparison_bars": [
+    {
+      "label": "NORMAL RANGE",
+      "v": 0.28,
+      "color": "#7ee787"
+    },
+    {
+      "label": "CRITICAL RISK",
+      "v": 0.95,
+      "color": "#ff5555"
+    }
+  ],
+  "crisis_alert": {
+    "label": "CRITICAL ALERT",
+    "value": "LIMIT EXCEEDED"
+  }
+}

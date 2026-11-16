@@ -1,0 +1,176 @@
+{
+  "title": "What If You Never Put Down Your Mobile Phone?",
+  "duration": 40.81,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 7.29,
+      "line": "You check your mobile phone. You scroll endlessly. Your eyes burn brightly.",
+      "scene": "cold_hook - bedroom",
+      "set": "bedroom",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: cold_hook"
+    },
+    {
+      "id": "s002",
+      "start": 7.29,
+      "end": 12.87,
+      "line": "What if your mobile phone fused to your hand? But you cannot stop.",
+      "scene": "the_premise - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "pop",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_premise"
+    },
+    {
+      "id": "s003",
+      "start": 12.87,
+      "end": 20.71,
+      "line": "Instant answers flow in. Every single video plays. You become super fast.",
+      "scene": "the_fun_part - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "ding",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_fun_part"
+    },
+    {
+      "id": "s004",
+      "start": 20.71,
+      "end": 27.25,
+      "line": "Neck tilt adds twenty seven kilograms of pressure. That is real science.",
+      "scene": "the_science_turn - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_science_turn"
+    },
+    {
+      "id": "s005",
+      "start": 27.25,
+      "end": 34.8,
+      "line": "Your vision fades completely. Your thumbs cramp up. Your battery hits zero.",
+      "scene": "the_friction_wall - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "slowmo",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_friction_wall"
+    },
+    {
+      "id": "s006",
+      "start": 34.8,
+      "end": 39.61,
+      "line": "Could you survive one full week without your beloved mobile phone today?",
+      "scene": "the_cliffhanger_cta - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_cliffhanger_cta"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 14.28,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 14.28,
+      "end": 30.61,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 30.61,
+      "end": 40.81,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

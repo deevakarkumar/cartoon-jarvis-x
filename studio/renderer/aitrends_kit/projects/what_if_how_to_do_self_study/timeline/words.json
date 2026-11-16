@@ -1,0 +1,404 @@
+{
+  "words": [
+    {
+      "word": "You",
+      "start": 0.1,
+      "end": 0.427
+    },
+    {
+      "word": "wake",
+      "start": 0.427,
+      "end": 0.755
+    },
+    {
+      "word": "up",
+      "start": 0.755,
+      "end": 1.082
+    },
+    {
+      "word": "on",
+      "start": 1.083,
+      "end": 1.41
+    },
+    {
+      "word": "a",
+      "start": 1.41,
+      "end": 1.737
+    },
+    {
+      "word": "Monday...",
+      "start": 1.737,
+      "end": 2.065
+    },
+    {
+      "word": "and",
+      "start": 2.065,
+      "end": 2.393
+    },
+    {
+      "word": "how",
+      "start": 2.392,
+      "end": 2.72
+    },
+    {
+      "word": "to",
+      "start": 2.72,
+      "end": 3.047
+    },
+    {
+      "word": "do",
+      "start": 3.047,
+      "end": 3.375
+    },
+    {
+      "word": "self",
+      "start": 3.375,
+      "end": 3.702
+    },
+    {
+      "word": "study",
+      "start": 3.702,
+      "end": 4.03
+    },
+    {
+      "word": "has",
+      "start": 4.03,
+      "end": 4.357
+    },
+    {
+      "word": "actually",
+      "start": 4.357,
+      "end": 4.685
+    },
+    {
+      "word": "happened.",
+      "start": 4.685,
+      "end": 5.012
+    },
+    {
+      "word": "Complete",
+      "start": 4.963,
+      "end": 5.919
+    },
+    {
+      "word": "shock.",
+      "start": 5.919,
+      "end": 6.875
+    },
+    {
+      "word": "In",
+      "start": 7.39,
+      "end": 7.881
+    },
+    {
+      "word": "the",
+      "start": 7.881,
+      "end": 8.371
+    },
+    {
+      "word": "first",
+      "start": 8.371,
+      "end": 8.862
+    },
+    {
+      "word": "hour,",
+      "start": 8.862,
+      "end": 9.352
+    },
+    {
+      "word": "everything",
+      "start": 9.352,
+      "end": 9.843
+    },
+    {
+      "word": "feels",
+      "start": 9.843,
+      "end": 10.334
+    },
+    {
+      "word": "eerily",
+      "start": 10.334,
+      "end": 10.824
+    },
+    {
+      "word": "quiet.",
+      "start": 10.824,
+      "end": 11.315
+    },
+    {
+      "word": "Then...",
+      "start": 11.265,
+      "end": 11.82
+    },
+    {
+      "word": "the",
+      "start": 11.82,
+      "end": 12.375
+    },
+    {
+      "word": "reality",
+      "start": 12.375,
+      "end": 12.93
+    },
+    {
+      "word": "sinks",
+      "start": 12.93,
+      "end": 13.485
+    },
+    {
+      "word": "in.",
+      "start": 13.485,
+      "end": 14.04
+    },
+    {
+      "word": "There",
+      "start": 14.56,
+      "end": 15.0
+    },
+    {
+      "word": "is",
+      "start": 15.0,
+      "end": 15.44
+    },
+    {
+      "word": "a",
+      "start": 15.44,
+      "end": 15.88
+    },
+    {
+      "word": "hidden",
+      "start": 15.88,
+      "end": 16.32
+    },
+    {
+      "word": "cost.",
+      "start": 16.32,
+      "end": 16.76
+    },
+    {
+      "word": "One",
+      "start": 16.71,
+      "end": 17.197
+    },
+    {
+      "word": "critical",
+      "start": 17.197,
+      "end": 17.685
+    },
+    {
+      "word": "rule...",
+      "start": 17.685,
+      "end": 18.172
+    },
+    {
+      "word": "that",
+      "start": 18.172,
+      "end": 18.66
+    },
+    {
+      "word": "changes",
+      "start": 18.66,
+      "end": 19.148
+    },
+    {
+      "word": "how",
+      "start": 19.148,
+      "end": 19.635
+    },
+    {
+      "word": "you",
+      "start": 19.635,
+      "end": 20.122
+    },
+    {
+      "word": "survive.",
+      "start": 20.122,
+      "end": 20.61
+    },
+    {
+      "word": "By",
+      "start": 21.13,
+      "end": 21.772
+    },
+    {
+      "word": "day",
+      "start": 21.772,
+      "end": 22.415
+    },
+    {
+      "word": "three,",
+      "start": 22.415,
+      "end": 23.057
+    },
+    {
+      "word": "resources",
+      "start": 23.057,
+      "end": 23.7
+    },
+    {
+      "word": "dwindle.",
+      "start": 23.7,
+      "end": 24.342
+    },
+    {
+      "word": "You",
+      "start": 24.293,
+      "end": 24.799
+    },
+    {
+      "word": "face",
+      "start": 24.799,
+      "end": 25.305
+    },
+    {
+      "word": "an",
+      "start": 25.305,
+      "end": 25.811
+    },
+    {
+      "word": "immediate",
+      "start": 25.811,
+      "end": 26.317
+    },
+    {
+      "word": "either-or",
+      "start": 26.317,
+      "end": 26.824
+    },
+    {
+      "word": "choice.",
+      "start": 26.824,
+      "end": 27.33
+    },
+    {
+      "word": "Yet",
+      "start": 27.84,
+      "end": 28.54
+    },
+    {
+      "word": "humanity",
+      "start": 28.54,
+      "end": 29.24
+    },
+    {
+      "word": "always",
+      "start": 29.24,
+      "end": 29.94
+    },
+    {
+      "word": "adapts.",
+      "start": 29.94,
+      "end": 30.64
+    },
+    {
+      "word": "When",
+      "start": 30.59,
+      "end": 31.026
+    },
+    {
+      "word": "pushed",
+      "start": 31.026,
+      "end": 31.462
+    },
+    {
+      "word": "to",
+      "start": 31.462,
+      "end": 31.898
+    },
+    {
+      "word": "extremes...",
+      "start": 31.898,
+      "end": 32.334
+    },
+    {
+      "word": "we",
+      "start": 32.334,
+      "end": 32.77
+    },
+    {
+      "word": "find",
+      "start": 32.77,
+      "end": 33.206
+    },
+    {
+      "word": "a",
+      "start": 33.206,
+      "end": 33.642
+    },
+    {
+      "word": "way.",
+      "start": 33.642,
+      "end": 34.077
+    },
+    {
+      "word": "How",
+      "start": 34.6,
+      "end": 34.95
+    },
+    {
+      "word": "long",
+      "start": 34.95,
+      "end": 35.3
+    },
+    {
+      "word": "would",
+      "start": 35.3,
+      "end": 35.65
+    },
+    {
+      "word": "you",
+      "start": 35.65,
+      "end": 36.0
+    },
+    {
+      "word": "last",
+      "start": 36.0,
+      "end": 36.35
+    },
+    {
+      "word": "in",
+      "start": 36.35,
+      "end": 36.7
+    },
+    {
+      "word": "this",
+      "start": 36.7,
+      "end": 37.05
+    },
+    {
+      "word": "scenario?",
+      "start": 37.05,
+      "end": 37.4
+    },
+    {
+      "word": "Tell",
+      "start": 37.35,
+      "end": 37.863
+    },
+    {
+      "word": "us",
+      "start": 37.863,
+      "end": 38.375
+    },
+    {
+      "word": "below,",
+      "start": 38.375,
+      "end": 38.888
+    },
+    {
+      "word": "and",
+      "start": 38.888,
+      "end": 39.4
+    },
+    {
+      "word": "hit",
+      "start": 39.4,
+      "end": 39.913
+    },
+    {
+      "word": "subscribe!",
+      "start": 39.913,
+      "end": 40.425
+    }
+  ]
+}

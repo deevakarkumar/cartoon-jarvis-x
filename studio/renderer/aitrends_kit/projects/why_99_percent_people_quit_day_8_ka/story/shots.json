@@ -1,0 +1,430 @@
+{
+  "title": "Why 99 Percent People Quit Day 8 Ka Shocking Sach!",
+  "duration": 136.43,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 9.64,
+      "line": "Agar aap Why 99 Percent People Quit Day 8 ko ignore kar rahe hain... toh sabse badi galti kar rahe hain.",
+      "scene": "cold_hook - classroom",
+      "set": "classroom",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -4
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: cold_hook"
+    },
+    {
+      "id": "s002",
+      "start": 9.64,
+      "end": 17.48,
+      "line": "Duniya sochti hai ki yeh aasan hai... lekin statistics kuch aur hi kadwa sach batate hain.",
+      "scene": "the_paradox - cityStreet",
+      "set": "cityStreet",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: the_paradox"
+    },
+    {
+      "id": "s003",
+      "start": 17.48,
+      "end": 27.33,
+      "line": "Data dekhiye: 94% log shuru karte hain, lekin sirf 6% log actual breakthrough tak pahunchte hain.",
+      "scene": "studio_analytics - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: studio_analytics"
+    },
+    {
+      "id": "s004",
+      "start": 27.33,
+      "end": 36.78,
+      "line": "Shuru me sab theek lagta hai. Dopamine high hota hai aur motivation aag jaisa chamakta hai.",
+      "scene": "the_first_action - cityStreet",
+      "set": "cityStreet",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.0,
+          "name": "whoosh",
+          "gain": -7
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: the_first_action"
+    },
+    {
+      "id": "s005",
+      "start": 36.78,
+      "end": 44.62,
+      "line": "Yahin sabse bada trap hai: Log temporary motivation ko permanent system samajh lete hain.",
+      "scene": "studio_disruption - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -3
+        },
+        {
+          "at": 0.15,
+          "name": "glitch",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: studio_disruption"
+    },
+    {
+      "id": "s006",
+      "start": 44.62,
+      "end": 52.72,
+      "line": "Jaise hi excitement khatam hoti hai... dimaag par thakan aur laziness ka pahaad toot padta hai.",
+      "scene": "the_friction_wall - cityStreet",
+      "set": "cityStreet",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: the_friction_wall"
+    },
+    {
+      "id": "s007",
+      "start": 52.72,
+      "end": 60.8,
+      "line": "Yeh wahi critical checkpoint hai... jahan aakar 90 percent log chup-chaap haar maan lete hain.",
+      "scene": "the_breaking_point - lab",
+      "set": "lab",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -3
+        },
+        {
+          "at": 0.15,
+          "name": "glitch",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_breaking_point"
+    },
+    {
+      "id": "s008",
+      "start": 60.8,
+      "end": 69.79,
+      "line": "Science isse 'The Dip' kehti hai\u2014jahan aapka dimag purani aaraam-parast aadat me lautne ki zidd karta hai.",
+      "scene": "studio_resistance_gauge - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: studio_resistance_gauge"
+    },
+    {
+      "id": "s009",
+      "start": 69.79,
+      "end": 77.89,
+      "line": "Lekin jo log rukte nahi... unka dimaag naye neural pathways construct karna shuru karta hai.",
+      "scene": "the_turning_point - classroom",
+      "set": "classroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: the_turning_point"
+    },
+    {
+      "id": "s010",
+      "start": 77.89,
+      "end": 85.54,
+      "line": "Achanak, jo cheez kal tak pahaad lag rahi thi... wo aapki second nature ban jaati hai.",
+      "scene": "the_deep_focus - classroom",
+      "set": "classroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: the_deep_focus"
+    },
+    {
+      "id": "s011",
+      "start": 85.54,
+      "end": 94.03,
+      "line": "Kamyabi koi lottery nahi hai\u2014yeh sirf unshakeable execution aur compounding ka mathematics hai.",
+      "scene": "studio_truth_revelation - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: studio_truth_revelation"
+    },
+    {
+      "id": "s012",
+      "start": 94.03,
+      "end": 101.7,
+      "line": "Ek baar jab momentum lock ho gaya... toh results 10 guna tezi se multiply hote hain.",
+      "scene": "the_compounding_surge - cityStreet",
+      "set": "cityStreet",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: the_compounding_surge"
+    },
+    {
+      "id": "s013",
+      "start": 101.7,
+      "end": 109.08,
+      "line": "Jo kal tak impossible lag raha tha... aaj aapka normal standard ban chuka hai.",
+      "scene": "the_breakthrough_moment - cityStreet",
+      "set": "cityStreet",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: the_breakthrough_moment"
+    },
+    {
+      "id": "s014",
+      "start": 109.08,
+      "end": 116.53,
+      "line": "Aap aam bheed se nikal kar... top 1 percent tier ke andar establish ho chuke hain.",
+      "scene": "the_mastery_level - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_mastery_level"
+    },
+    {
+      "id": "s015",
+      "start": 116.53,
+      "end": 125.98,
+      "line": "Mastery ka ek hi rule hai: Kabhi mood ka intezaar mat karo. Action pehle lo, mood khud follow karega.",
+      "scene": "the_core_philosophy - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_core_philosophy"
+    },
+    {
+      "id": "s016",
+      "start": 125.98,
+      "end": 135.23,
+      "line": "Aapka Why 99 Percent People Quit Day 8 par kya nazariya hai? Niche comment me zaroor batayein!",
+      "scene": "the_challenge_cta - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_challenge_cta"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 47.75,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 47.75,
+      "end": 102.32,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 102.32,
+      "end": 136.43,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

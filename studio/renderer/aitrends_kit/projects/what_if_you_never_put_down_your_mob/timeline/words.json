@@ -1,0 +1,369 @@
+{
+  "words": [
+    {
+      "word": "You",
+      "start": 0.1,
+      "end": 0.555
+    },
+    {
+      "word": "check",
+      "start": 0.555,
+      "end": 1.01
+    },
+    {
+      "word": "your",
+      "start": 1.01,
+      "end": 1.465
+    },
+    {
+      "word": "mobile",
+      "start": 1.465,
+      "end": 1.92
+    },
+    {
+      "word": "phone.",
+      "start": 1.92,
+      "end": 2.375
+    },
+    {
+      "word": "You",
+      "start": 2.325,
+      "end": 3.075
+    },
+    {
+      "word": "scroll",
+      "start": 3.075,
+      "end": 3.825
+    },
+    {
+      "word": "endlessly.",
+      "start": 3.825,
+      "end": 4.575
+    },
+    {
+      "word": "Your",
+      "start": 4.575,
+      "end": 5.153
+    },
+    {
+      "word": "eyes",
+      "start": 5.153,
+      "end": 5.731
+    },
+    {
+      "word": "burn",
+      "start": 5.731,
+      "end": 6.309
+    },
+    {
+      "word": "brightly.",
+      "start": 6.309,
+      "end": 6.888
+    },
+    {
+      "word": "What",
+      "start": 7.39,
+      "end": 7.725
+    },
+    {
+      "word": "if",
+      "start": 7.725,
+      "end": 8.059
+    },
+    {
+      "word": "your",
+      "start": 8.059,
+      "end": 8.394
+    },
+    {
+      "word": "mobile",
+      "start": 8.394,
+      "end": 8.729
+    },
+    {
+      "word": "phone",
+      "start": 8.729,
+      "end": 9.064
+    },
+    {
+      "word": "fused",
+      "start": 9.064,
+      "end": 9.398
+    },
+    {
+      "word": "to",
+      "start": 9.398,
+      "end": 9.733
+    },
+    {
+      "word": "your",
+      "start": 9.733,
+      "end": 10.068
+    },
+    {
+      "word": "hand?",
+      "start": 10.068,
+      "end": 10.403
+    },
+    {
+      "word": "But",
+      "start": 10.352,
+      "end": 10.877
+    },
+    {
+      "word": "you",
+      "start": 10.877,
+      "end": 11.402
+    },
+    {
+      "word": "cannot",
+      "start": 11.402,
+      "end": 11.928
+    },
+    {
+      "word": "stop.",
+      "start": 11.928,
+      "end": 12.453
+    },
+    {
+      "word": "Instant",
+      "start": 12.97,
+      "end": 13.567
+    },
+    {
+      "word": "answers",
+      "start": 13.567,
+      "end": 14.164
+    },
+    {
+      "word": "flow",
+      "start": 14.164,
+      "end": 14.761
+    },
+    {
+      "word": "in.",
+      "start": 14.761,
+      "end": 15.358
+    },
+    {
+      "word": "Every",
+      "start": 15.308,
+      "end": 15.951
+    },
+    {
+      "word": "single",
+      "start": 15.951,
+      "end": 16.595
+    },
+    {
+      "word": "video",
+      "start": 16.595,
+      "end": 17.239
+    },
+    {
+      "word": "plays.",
+      "start": 17.239,
+      "end": 17.883
+    },
+    {
+      "word": "You",
+      "start": 17.883,
+      "end": 18.486
+    },
+    {
+      "word": "become",
+      "start": 18.486,
+      "end": 19.089
+    },
+    {
+      "word": "super",
+      "start": 19.089,
+      "end": 19.692
+    },
+    {
+      "word": "fast.",
+      "start": 19.692,
+      "end": 20.295
+    },
+    {
+      "word": "Neck",
+      "start": 20.81,
+      "end": 21.285
+    },
+    {
+      "word": "tilt",
+      "start": 21.285,
+      "end": 21.76
+    },
+    {
+      "word": "adds",
+      "start": 21.76,
+      "end": 22.235
+    },
+    {
+      "word": "twenty",
+      "start": 22.235,
+      "end": 22.71
+    },
+    {
+      "word": "seven",
+      "start": 22.71,
+      "end": 23.185
+    },
+    {
+      "word": "kilograms",
+      "start": 23.185,
+      "end": 23.66
+    },
+    {
+      "word": "of",
+      "start": 23.66,
+      "end": 24.135
+    },
+    {
+      "word": "pressure.",
+      "start": 24.135,
+      "end": 24.61
+    },
+    {
+      "word": "That",
+      "start": 24.56,
+      "end": 25.132
+    },
+    {
+      "word": "is",
+      "start": 25.132,
+      "end": 25.704
+    },
+    {
+      "word": "real",
+      "start": 25.704,
+      "end": 26.276
+    },
+    {
+      "word": "science.",
+      "start": 26.276,
+      "end": 26.848
+    },
+    {
+      "word": "Your",
+      "start": 27.35,
+      "end": 28.006
+    },
+    {
+      "word": "vision",
+      "start": 28.006,
+      "end": 28.663
+    },
+    {
+      "word": "fades",
+      "start": 28.663,
+      "end": 29.319
+    },
+    {
+      "word": "completely.",
+      "start": 29.319,
+      "end": 29.975
+    },
+    {
+      "word": "Your",
+      "start": 29.925,
+      "end": 30.459
+    },
+    {
+      "word": "thumbs",
+      "start": 30.459,
+      "end": 30.994
+    },
+    {
+      "word": "cramp",
+      "start": 30.994,
+      "end": 31.528
+    },
+    {
+      "word": "up.",
+      "start": 31.528,
+      "end": 32.062
+    },
+    {
+      "word": "Your",
+      "start": 32.062,
+      "end": 32.644
+    },
+    {
+      "word": "battery",
+      "start": 32.644,
+      "end": 33.225
+    },
+    {
+      "word": "hits",
+      "start": 33.225,
+      "end": 33.806
+    },
+    {
+      "word": "zero.",
+      "start": 33.806,
+      "end": 34.388
+    },
+    {
+      "word": "Could",
+      "start": 34.9,
+      "end": 35.264
+    },
+    {
+      "word": "you",
+      "start": 35.264,
+      "end": 35.627
+    },
+    {
+      "word": "survive",
+      "start": 35.627,
+      "end": 35.991
+    },
+    {
+      "word": "one",
+      "start": 35.991,
+      "end": 36.354
+    },
+    {
+      "word": "full",
+      "start": 36.354,
+      "end": 36.718
+    },
+    {
+      "word": "week",
+      "start": 36.718,
+      "end": 37.081
+    },
+    {
+      "word": "without",
+      "start": 37.081,
+      "end": 37.445
+    },
+    {
+      "word": "your",
+      "start": 37.445,
+      "end": 37.808
+    },
+    {
+      "word": "beloved",
+      "start": 37.808,
+      "end": 38.172
+    },
+    {
+      "word": "mobile",
+      "start": 38.172,
+      "end": 38.535
+    },
+    {
+      "word": "phone",
+      "start": 38.535,
+      "end": 38.899
+    },
+    {
+      "word": "today?",
+      "start": 38.899,
+      "end": 39.262
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Motivation Will Fail You: Discipline Is Everything",
+  "aspect": "16:9",
+  "resolution": "720p",
+  "fps": 24,
+  "style": "hybrid",
+  "voiceover": "input/voiceover.mp3",
+  "script": "input/script.txt",
+  "duration": 139.28,
+  "captions": true,
+  "captionStyle": {
+    "color": "#ffffff",
+    "hi": "#ffd54f",
+    "size": 44
+  },
+  "bars": null,
+  "fadeIn": 0.5,
+  "fadeOut": 0.8,
+  "music": {
+    "enabled": true,
+    "gainDb": -18
+  },
+  "sfx": {
+    "enabled": true,
+    "gainDb": -6
+  },
+  "loudness": -14
+}

@@ -1,0 +1,176 @@
+{
+  "title": "Can 2 People Really Restart Humanity?",
+  "duration": 44.97,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 9.45,
+      "line": "Eight billion people... gone overnight. Exactly two humans remain on Earth. You... and one stranger.",
+      "scene": "cold_hook - ruinsWasteland",
+      "set": "ruinsWasteland",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: cold_hook"
+    },
+    {
+      "id": "s002",
+      "start": 9.45,
+      "end": 16.35,
+      "line": "Can two people truly repopulate an entire planet? Biology has a brutal answer.",
+      "scene": "the_core_question - ruinsWasteland",
+      "set": "ruinsWasteland",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "ding",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_core_question"
+    },
+    {
+      "id": "s003",
+      "start": 16.35,
+      "end": 23.9,
+      "line": "Generation one thrives. But by generation two... every child is brother and sister.",
+      "scene": "generation_one - ruinsWasteland",
+      "set": "ruinsWasteland",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "pop",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: generation_one"
+    },
+    {
+      "id": "s004",
+      "start": 23.9,
+      "end": 32.03,
+      "line": "The genetic bottleneck. Deadly recessive mutations multiply by eighty percent within three generations.",
+      "scene": "genetic_bottleneck - lab",
+      "set": "lab",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: genetic_bottleneck"
+    },
+    {
+      "id": "s005",
+      "start": 32.03,
+      "end": 38.69,
+      "line": "The famous 50/500 rule: You need at least five hundred humans to restart civilization.",
+      "scene": "minimum_population_rule - lab",
+      "set": "lab",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "ding",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: minimum_population_rule"
+    },
+    {
+      "id": "s006",
+      "start": 38.69,
+      "end": 43.77,
+      "line": "Would you try anyway? Tell us what you would do in the comments!",
+      "scene": "climax_question - ruinsWasteland",
+      "set": "ruinsWasteland",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: climax_question"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 15.74,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 15.74,
+      "end": 33.73,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 33.73,
+      "end": 44.97,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

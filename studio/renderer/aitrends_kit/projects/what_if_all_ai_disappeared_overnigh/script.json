@@ -1,0 +1,201 @@
+{
+  "title": "What If ALL AI Disappeared Overnight?",
+  "language": "en",
+  "is_5min": false,
+  "aspect_ratio": "9:16",
+  "bg_style": "neon_city",
+  "primary_prop": "robot_ai",
+  "science_metric": {
+    "title": "GLOBAL SYSTEM EFFICIENCY",
+    "subtitle": "AI INTEGRATION vs FUNCTIONALITY",
+    "from": 99.8,
+    "to": 0.1,
+    "unit": "%",
+    "label_start": "AI Active (99.8%)",
+    "label_mid": "Partial (50%)",
+    "label_end": "AI Absent (0.1%)"
+  },
+  "comparison_bars": [
+    {
+      "label": "WITH AI",
+      "v": 0.95,
+      "color": "#7ee787"
+    },
+    {
+      "label": "WITHOUT AI",
+      "v": 0.02,
+      "color": "#ff5555"
+    }
+  ],
+  "crisis_alert": {
+    "label": "CRISIS CODE: A.I. DECOMMISSION",
+    "value": "GLOBAL SYSTEMIC FAILURE"
+  },
+  "youtube_kit": {
+    "viral_titles": [
+      "What If AI Vanished? Humanity's Biggest Nightmare!",
+      "The Day AI Disappeared: You Won't Believe What Happened Next!",
+      "AI is GONE! Our World Collapses in Hours. Here's Why."
+    ],
+    "seo_description": "Imagine waking up one day and all Artificial Intelligence simply ceased to exist. Our lives are intertwined with AI in ways we don't even realize, from the simplest apps to complex global infrastructure. This animated short explores the catastrophic ripple effects if AI suddenly vanished, revealing its profound importance to modern society.\n\nDiscover how quickly chaos would ensue, from traffic lights failing to financial markets collapsing. Understand the hidden science behind AI's crucial role in everything from logistics to healthcare. What would happen to our technology, our economy, and ultimately, our civilization? Watch to find out why AI is not just a tool, but an indispensable backbone of our current existence. Don't forget to share your thoughts in the comments!",
+    "tags": [
+      "AI importance",
+      "artificial intelligence",
+      "what if AI disappeared",
+      "future without AI",
+      "AI impact",
+      "tech collapse",
+      "global crisis",
+      "animated story",
+      "stick figure animation",
+      "future technology"
+    ],
+    "hashtags": [
+      "#Shorts",
+      "#Viral",
+      "#Animation",
+      "#AI"
+    ],
+    "pinned_comment": "If AI disappeared, what's the first thing you think would break? Let us know below!",
+    "thumbnail_hook": "AI GONE. CHAOS.",
+    "thumbnail_prop": "robot_ai"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "beat": "Instant Shock: AI Disappears",
+      "narration": "Imagine. One morning, all AI vanishes. Your phone is dead.",
+      "visual_description": "A stick figure stands confused in a dark bedroom, phone screen black, alarm clock frozen. Outside, city lights dim.",
+      "image_prompt": "dark cozy_bedroom, stick figure looking confused at a dead phone, alarm clock frozen, city lights outside window dimming, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "hands_on_head",
+      "expression": "shocked",
+      "bg_style": "cozy_bedroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "AI: 0%",
+      "shake": 0.5,
+      "props": [
+        {
+          "type": "phone_device",
+          "scale": 1.0
+        }
+      ],
+      "sfx": "power_down"
+    },
+    {
+      "scene_id": 2,
+      "beat": "Immediate Escalation: Global Effect",
+      "narration": "Traffic lights fail. Banks freeze. Global systems halt. Instant chaos.",
+      "visual_description": "A chaotic city street at dawn. Traffic lights are dark, cars are jammed, and stick figures are panicking, pointing at dark bank screens.",
+      "image_prompt": "dusk city_street, broken traffic lights, jammed cars, stick figures panicking, dark bank screens, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "panicking",
+      "expression": "screaming",
+      "bg_style": "city_street",
+      "characters": [
+        "HERO",
+        "SECONDARY"
+      ],
+      "badge": "SYSTEMS OFFLINE: 90%",
+      "shake": 0.8,
+      "props": [
+        {
+          "type": "money_bag",
+          "scale": 1.0
+        }
+      ],
+      "sfx": "shatter"
+    },
+    {
+      "scene_id": 3,
+      "beat": "Compounding Chaos: Supply Chain Collapse",
+      "narration": "Supply chains shatter. Power grids fail. Food disappears fast. Panic spreads.",
+      "visual_description": "An empty supermarket aisle. Shelves are bare. Distressed stick figures look bewildered, one clutching an empty basket.",
+      "image_prompt": "empty supermarket aisle, bare shelves, distressed stick figures looking bewildered, one clutching an empty basket, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "hands_on_head",
+      "expression": "jaw_drop",
+      "bg_style": "office_workspace",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "SUPPLY: 0%",
+      "shake": 0.7,
+      "props": [
+        {
+          "type": "question_mark",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "drone_hit"
+    },
+    {
+      "scene_id": 4,
+      "beat": "Hidden Science: AI's Invisible Role",
+      "narration": "AI manages everything. Logistics, medicine, communication. It's our invisible backbone.",
+      "visual_description": "A stick figure in a tech server room, pointing at a glowing, complex network diagram projected onto the wall, explaining AI's broad reach.",
+      "image_prompt": "tech_server_room, stick figure pointing at a glowing complex network diagram on wall, explaining AI's broad reach, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "explaining",
+      "expression": "thinking",
+      "bg_style": "tech_server_room",
+      "characters": [
+        "HERO",
+        "DOC"
+      ],
+      "badge": "AI INTEGRATION: 99%",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "brain_glow",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "ding"
+    },
+    {
+      "scene_id": 5,
+      "beat": "Extreme Climax: System Overload",
+      "narration": "No AI means no modern world. Society collapses. We return to dark ages.",
+      "visual_description": "A desolate, overgrown ruins_wasteland where a stick figure sits defeated amidst broken structures, smoke rising in the distance, a dark sky.",
+      "image_prompt": "desolate overgrown ruins_wasteland, stick figure sitting defeated amidst broken structures, smoke rising in distance, dark sky, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "slouching",
+      "expression": "deadpan",
+      "bg_style": "ruins_wasteland",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "CIVILIZATION: CRITICAL",
+      "shake": 0.9,
+      "props": [
+        {
+          "type": "skull_danger",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "title_boom"
+    },
+    {
+      "scene_id": 6,
+      "beat": "Mind-Blowing Dilemma Question",
+      "narration": "Can we survive without it? Or is AI now essential for humanity's future?",
+      "visual_description": "A stick figure stands on a floating island, looking up at a glowing Earth surrounded by abstract digital symbols, pondering humanity's future with AI.",
+      "image_prompt": "dusk_space, stick figure standing on a floating island looking up at glowing earth surrounded by abstract digital symbols, pondering humanity's future with AI, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "look_up",
+      "expression": "thinking",
+      "bg_style": "dusk_space",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "HUMANITY: DEPENDENT",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "earth",
+          "scale": 1.5
+        }
+      ],
+      "sfx": "whoosh"
+    }
+  ],
+  "source": "gemini_ai",
+  "style": "dayone"
+}

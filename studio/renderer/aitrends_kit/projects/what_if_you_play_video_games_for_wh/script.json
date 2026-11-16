@@ -1,0 +1,199 @@
+{
+  "title": "What If You Play Video Games For Whole Day?",
+  "language": "hi",
+  "is_5min": false,
+  "aspect_ratio": "9:16",
+  "bg_style": "cozy_bedroom",
+  "primary_prop": "phone_device",
+  "science_metric": {
+    "title": "DOPAMINE RECEPTOR FATIGUE",
+    "subtitle": "BRAIN STIMULATION vs BASELINE LEVEL",
+    "from": 10.0,
+    "to": 95.0,
+    "unit": "%",
+    "label_start": "Start (10%)",
+    "label_mid": "Mid (50%)",
+    "label_end": "Max (95%)"
+  },
+  "comparison_bars": [
+    {
+      "label": "NORMAL DAY",
+      "v": 0.25,
+      "color": "#7ee787"
+    },
+    {
+      "label": "24H GAMING",
+      "v": 0.95,
+      "color": "#ff5555"
+    }
+  ],
+  "crisis_alert": {
+    "label": "CRISIS CODE: NEURAL OVERLOAD",
+    "value": "EXTREME DOPAMINE CRASH DETECTED"
+  },
+  "youtube_kit": {
+    "viral_titles": [
+      "What If You Play Games For 24 Hours Straight?",
+      "I Played Video Games For A Whole Day! This Happened!",
+      "The Scary Truth About Playing Games All Day!"
+    ],
+    "seo_description": "What if we play for whole day? Kya aapne kabhi 24 ghante लगातार gaming ki hai? Dekhiye is video mein kya hota hai jab aap bina ruke pura din games khelte hain. Dopamine crash se lekar body fatigue tak, saari sachai janiye!\n\nAgar aapko aise interesting what if scenarios pasand hain, toh channel ko subscribe karein aur comment mein batayein aap kitne ghante gaming karte hain.",
+    "tags": [
+      "gaming for 24 hours",
+      "what if",
+      "gaming effects",
+      "hindi animation",
+      "awaken style",
+      "gaming all day",
+      "brain damage",
+      "dopamine crash",
+      "stick figure animation",
+      "shorts"
+    ],
+    "hashtags": [
+      "#Shorts",
+      "#Gaming",
+      "#WhatIf",
+      "#Animation",
+      "#Viral"
+    ],
+    "pinned_comment": "Aapne maximum kitne ghante lagatar gaming ki hai? Comments mein batao! 👇",
+    "thumbnail_hook": "24 HOURS GAMING?!",
+    "thumbnail_prop": "phone_device"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "beat": "inciting_reality",
+      "narration": "Subah subah controller uthaya. Socha bas ek ghanta khelenge!",
+      "visual_description": "Stick figure sitting on a cozy bed holding a game controller with a bright screen glowing.",
+      "image_prompt": "cozy bedroom with glowing computer monitor, stick figure sitting on bed holding a controller, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "idle",
+      "expression": "happy",
+      "bg_style": "cozy_bedroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "08:00 AM",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "phone_device",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "pop"
+    },
+    {
+      "scene_id": 2,
+      "beat": "turning_point",
+      "narration": "Ghante kab ghantey ban gaye, pata hi nahi chala dost!",
+      "visual_description": "Clock spinning rapidly in the background while the stick figure is intensely focused on gaming.",
+      "image_prompt": "cozy bedroom with fast spinning clock on wall, intense stick figure playing games, neon glow lighting, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "typing",
+      "expression": "shocked",
+      "bg_style": "cozy_bedroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "04:00 PM",
+      "shake": 0.1,
+      "props": [
+        {
+          "type": "stopwatch",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "whoosh"
+    },
+    {
+      "scene_id": 3,
+      "beat": "compounding_struggle",
+      "narration": "Aankhe laal ho gayi. Sar mein tez dard shuru ho gaya.",
+      "visual_description": "Stick figure holding head in pain with red glowing eyes and messy hair in the dark room.",
+      "image_prompt": "dark cozy bedroom, stick figure holding head in pain, red glowing eyes, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "hands_on_head",
+      "expression": "screaming",
+      "bg_style": "cozy_bedroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "11:30 PM",
+      "shake": 0.3,
+      "props": [
+        {
+          "type": "skull_danger",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "drone_hit"
+    },
+    {
+      "scene_id": 4,
+      "beat": "critical_test",
+      "narration": "Dopamine level peak par pahunchkar achanak se zero ho gaya!",
+      "visual_description": "Brain glowing brightly inside the stick figure's head before suddenly dimming down completely.",
+      "image_prompt": "dark bedroom, stick figure with glowing brain fading to dark, scientific visualization, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "thinking",
+      "expression": "deadpan",
+      "bg_style": "cozy_bedroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "DOPAMINE: 0%",
+      "shake": 0.2,
+      "props": [
+        {
+          "type": "brain_glow",
+          "scale": 1.3
+        }
+      ],
+      "sfx": "power_down"
+    },
+    {
+      "scene_id": 5,
+      "beat": "transformed_reality",
+      "narration": "Pure 24 ghante baad, reality bilkul ek nightmare lagne lagi.",
+      "visual_description": "Exhausted stick figure lying flat on the floor surrounded by empty snack wrappers and glowing screens.",
+      "image_prompt": "messy room with glowing screens, exhausted stick figure lying flat on floor, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "lying",
+      "expression": "sleepy",
+      "bg_style": "cozy_bedroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "24 HOURS",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "alarm_clock",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "ding"
+    },
+    {
+      "scene_id": 6,
+      "beat": "moral_cta",
+      "narration": "Kya aap bina screen ke ek din bita sakte ho? Comment karo!",
+      "visual_description": "Stick figure pointing directly forward at the viewer with a giant glowing question mark behind.",
+      "image_prompt": "minimalist studio background, stick figure pointing forward, giant question mark, vibrant lighting, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "pointing",
+      "expression": "normal",
+      "bg_style": "cozy_bedroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "YOUR TURN",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "question_mark",
+          "scale": 1.4
+        }
+      ],
+      "sfx": "title_boom"
+    }
+  ],
+  "source": "gemini_ai"
+}

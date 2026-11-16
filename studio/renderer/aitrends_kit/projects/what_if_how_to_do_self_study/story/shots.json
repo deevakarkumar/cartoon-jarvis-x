@@ -1,0 +1,176 @@
+{
+  "title": "What If: How To Do Self Study?",
+  "duration": 42.03,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 7.29,
+      "line": "You wake up on a Monday... and how to do self study has actually happened. Complete shock.",
+      "scene": "cold_hook - spaceVoid",
+      "set": "spaceVoid",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: cold_hook"
+    },
+    {
+      "id": "s002",
+      "start": 7.29,
+      "end": 14.46,
+      "line": "In the first hour, everything feels eerily quiet. Then... the reality sinks in.",
+      "scene": "hour_one - spaceVoid",
+      "set": "spaceVoid",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "pop",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: hour_one"
+    },
+    {
+      "id": "s003",
+      "start": 14.46,
+      "end": 21.03,
+      "line": "There is a hidden cost. One critical rule... that changes how you survive.",
+      "scene": "the_hidden_cost - bedroom",
+      "set": "bedroom",
+      "bars": "scope",
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "ding",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_hidden_cost"
+    },
+    {
+      "id": "s004",
+      "start": 21.03,
+      "end": 27.74,
+      "line": "By day three, resources dwindle. You face an immediate either-or choice.",
+      "scene": "the_breaking_point - cityStreet",
+      "set": "cityStreet",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: the_breaking_point"
+    },
+    {
+      "id": "s005",
+      "start": 27.74,
+      "end": 34.5,
+      "line": "Yet humanity always adapts. When pushed to extremes... we find a way.",
+      "scene": "adaptation - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "pop",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: adaptation"
+    },
+    {
+      "id": "s006",
+      "start": 34.5,
+      "end": 40.83,
+      "line": "How long would you last in this scenario? Tell us below, and hit subscribe!",
+      "scene": "climax_cta - spaceVoid",
+      "set": "spaceVoid",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: climax_cta"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 14.71,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 14.71,
+      "end": 31.52,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 31.52,
+      "end": 42.03,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "words": [
+    {
+      "word": "You",
+      "start": 0.1,
+      "end": 0.494
+    },
+    {
+      "word": "sit",
+      "start": 0.494,
+      "end": 0.887
+    },
+    {
+      "word": "at",
+      "start": 0.887,
+      "end": 1.281
+    },
+    {
+      "word": "the",
+      "start": 1.281,
+      "end": 1.675
+    },
+    {
+      "word": "back",
+      "start": 1.675,
+      "end": 2.069
+    },
+    {
+      "word": "desk.",
+      "start": 2.069,
+      "end": 2.462
+    },
+    {
+      "word": "Failing",
+      "start": 2.413,
+      "end": 3.069
+    },
+    {
+      "word": "every",
+      "start": 3.069,
+      "end": 3.725
+    },
+    {
+      "word": "single",
+      "start": 3.725,
+      "end": 4.381
+    },
+    {
+      "word": "test.",
+      "start": 4.381,
+      "end": 5.037
+    },
+    {
+      "word": "One",
+      "start": 5.54,
+      "end": 6.14
+    },
+    {
+      "word": "simple",
+      "start": 6.14,
+      "end": 6.74
+    },
+    {
+      "word": "rule",
+      "start": 6.74,
+      "end": 7.34
+    },
+    {
+      "word": "changed",
+      "start": 7.34,
+      "end": 7.94
+    },
+    {
+      "word": "everything.",
+      "start": 7.94,
+      "end": 8.54
+    },
+    {
+      "word": "Study",
+      "start": 8.49,
+      "end": 9.002
+    },
+    {
+      "word": "twenty",
+      "start": 9.002,
+      "end": 9.515
+    },
+    {
+      "word": "minutes",
+      "start": 9.515,
+      "end": 10.028
+    },
+    {
+      "word": "every",
+      "start": 10.028,
+      "end": 10.54
+    },
+    {
+      "word": "single",
+      "start": 10.54,
+      "end": 11.052
+    },
+    {
+      "word": "night.",
+      "start": 11.053,
+      "end": 11.565
+    },
+    {
+      "word": "Consistency",
+      "start": 12.08,
+      "end": 12.73
+    },
+    {
+      "word": "hurt",
+      "start": 12.73,
+      "end": 13.38
+    },
+    {
+      "word": "at",
+      "start": 13.38,
+      "end": 14.03
+    },
+    {
+      "word": "first.",
+      "start": 14.03,
+      "end": 14.68
+    },
+    {
+      "word": "Distractions",
+      "start": 14.63,
+      "end": 15.143
+    },
+    {
+      "word": "tried",
+      "start": 15.143,
+      "end": 15.655
+    },
+    {
+      "word": "pulling",
+      "start": 15.655,
+      "end": 16.168
+    },
+    {
+      "word": "you",
+      "start": 16.168,
+      "end": 16.68
+    },
+    {
+      "word": "back",
+      "start": 16.68,
+      "end": 17.193
+    },
+    {
+      "word": "down.",
+      "start": 17.193,
+      "end": 17.705
+    },
+    {
+      "word": "Then",
+      "start": 18.21,
+      "end": 18.718
+    },
+    {
+      "word": "the",
+      "start": 18.718,
+      "end": 19.225
+    },
+    {
+      "word": "big",
+      "start": 19.225,
+      "end": 19.733
+    },
+    {
+      "word": "exam",
+      "start": 19.733,
+      "end": 20.24
+    },
+    {
+      "word": "arrived.",
+      "start": 20.24,
+      "end": 20.748
+    },
+    {
+      "word": "Questions",
+      "start": 20.697,
+      "end": 21.36
+    },
+    {
+      "word": "suddenly",
+      "start": 21.36,
+      "end": 22.023
+    },
+    {
+      "word": "felt",
+      "start": 22.022,
+      "end": 22.685
+    },
+    {
+      "word": "incredibly",
+      "start": 22.685,
+      "end": 23.347
+    },
+    {
+      "word": "easy.",
+      "start": 23.347,
+      "end": 24.01
+    },
+    {
+      "word": "Top",
+      "start": 24.51,
+      "end": 25.247
+    },
+    {
+      "word": "grades",
+      "start": 25.247,
+      "end": 25.985
+    },
+    {
+      "word": "secured.",
+      "start": 25.985,
+      "end": 26.722
+    },
+    {
+      "word": "Teachers",
+      "start": 26.673,
+      "end": 27.629
+    },
+    {
+      "word": "noticed.",
+      "start": 27.629,
+      "end": 28.585
+    },
+    {
+      "word": "Your",
+      "start": 28.585,
+      "end": 29.173
+    },
+    {
+      "word": "entire",
+      "start": 29.173,
+      "end": 29.76
+    },
+    {
+      "word": "social",
+      "start": 29.76,
+      "end": 30.348
+    },
+    {
+      "word": "standing",
+      "start": 30.348,
+      "end": 30.935
+    },
+    {
+      "word": "completely",
+      "start": 30.935,
+      "end": 31.523
+    },
+    {
+      "word": "flipped.",
+      "start": 31.522,
+      "end": 32.11
+    },
+    {
+      "word": "Small",
+      "start": 32.61,
+      "end": 33.258
+    },
+    {
+      "word": "daily",
+      "start": 33.258,
+      "end": 33.906
+    },
+    {
+      "word": "habits",
+      "start": 33.906,
+      "end": 34.554
+    },
+    {
+      "word": "build",
+      "start": 34.554,
+      "end": 35.202
+    },
+    {
+      "word": "unstoppable",
+      "start": 35.202,
+      "end": 35.85
+    },
+    {
+      "word": "futures.",
+      "start": 35.85,
+      "end": 36.498
+    },
+    {
+      "word": "Will",
+      "start": 36.448,
+      "end": 36.885
+    },
+    {
+      "word": "you",
+      "start": 36.885,
+      "end": 37.322
+    },
+    {
+      "word": "start",
+      "start": 37.322,
+      "end": 37.76
+    },
+    {
+      "word": "yours",
+      "start": 37.76,
+      "end": 38.198
+    },
+    {
+      "word": "today?",
+      "start": 38.198,
+      "end": 38.635
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "words": [
+    {
+      "word": "Subah",
+      "start": 0.1,
+      "end": 0.821
+    },
+    {
+      "word": "7:00",
+      "start": 0.821,
+      "end": 1.542
+    },
+    {
+      "word": "baje.",
+      "start": 1.542,
+      "end": 2.263
+    },
+    {
+      "word": "Alarm",
+      "start": 2.212,
+      "end": 2.623
+    },
+    {
+      "word": "40",
+      "start": 2.623,
+      "end": 3.033
+    },
+    {
+      "word": "minute",
+      "start": 3.033,
+      "end": 3.444
+    },
+    {
+      "word": "se",
+      "start": 3.444,
+      "end": 3.854
+    },
+    {
+      "word": "baj",
+      "start": 3.854,
+      "end": 4.265
+    },
+    {
+      "word": "raha",
+      "start": 4.265,
+      "end": 4.675
+    },
+    {
+      "word": "hai...",
+      "start": 4.675,
+      "end": 5.085
+    },
+    {
+      "word": "par",
+      "start": 5.085,
+      "end": 5.496
+    },
+    {
+      "word": "aap",
+      "start": 5.496,
+      "end": 5.906
+    },
+    {
+      "word": "hile",
+      "start": 5.906,
+      "end": 6.317
+    },
+    {
+      "word": "bhi",
+      "start": 6.317,
+      "end": 6.727
+    },
+    {
+      "word": "nahi.",
+      "start": 6.727,
+      "end": 7.137
+    },
+    {
+      "word": "Duniya",
+      "start": 7.65,
+      "end": 8.362
+    },
+    {
+      "word": "aapko",
+      "start": 8.362,
+      "end": 9.075
+    },
+    {
+      "word": "aalsi",
+      "start": 9.075,
+      "end": 9.788
+    },
+    {
+      "word": "kehti",
+      "start": 9.788,
+      "end": 10.5
+    },
+    {
+      "word": "hai.",
+      "start": 10.5,
+      "end": 11.213
+    },
+    {
+      "word": "Par",
+      "start": 11.162,
+      "end": 11.645
+    },
+    {
+      "word": "sach",
+      "start": 11.645,
+      "end": 12.127
+    },
+    {
+      "word": "yeh",
+      "start": 12.127,
+      "end": 12.61
+    },
+    {
+      "word": "hai...",
+      "start": 12.61,
+      "end": 13.093
+    },
+    {
+      "word": "aapka",
+      "start": 13.093,
+      "end": 13.575
+    },
+    {
+      "word": "dimaag",
+      "start": 13.575,
+      "end": 14.058
+    },
+    {
+      "word": "energy",
+      "start": 14.058,
+      "end": 14.54
+    },
+    {
+      "word": "bacha",
+      "start": 14.54,
+      "end": 15.023
+    },
+    {
+      "word": "raha",
+      "start": 15.023,
+      "end": 15.505
+    },
+    {
+      "word": "hai.",
+      "start": 15.505,
+      "end": 15.988
+    },
+    {
+      "word": "Pahaad",
+      "start": 16.5,
+      "end": 17.153
+    },
+    {
+      "word": "jaisa",
+      "start": 17.153,
+      "end": 17.806
+    },
+    {
+      "word": "pending",
+      "start": 17.806,
+      "end": 18.459
+    },
+    {
+      "word": "kaam.",
+      "start": 18.459,
+      "end": 19.112
+    },
+    {
+      "word": "Aur",
+      "start": 19.063,
+      "end": 19.621
+    },
+    {
+      "word": "sudden",
+      "start": 19.621,
+      "end": 20.179
+    },
+    {
+      "word": "deadline...",
+      "start": 20.179,
+      "end": 20.738
+    },
+    {
+      "word": "jo",
+      "start": 20.738,
+      "end": 21.296
+    },
+    {
+      "word": "aapki",
+      "start": 21.296,
+      "end": 21.854
+    },
+    {
+      "word": "neend",
+      "start": 21.854,
+      "end": 22.413
+    },
+    {
+      "word": "uda",
+      "start": 22.413,
+      "end": 22.971
+    },
+    {
+      "word": "deti",
+      "start": 22.971,
+      "end": 23.529
+    },
+    {
+      "word": "hai!",
+      "start": 23.529,
+      "end": 24.088
+    },
+    {
+      "word": "Kyunki",
+      "start": 24.6,
+      "end": 25.062
+    },
+    {
+      "word": "aalsi",
+      "start": 25.062,
+      "end": 25.525
+    },
+    {
+      "word": "log",
+      "start": 25.525,
+      "end": 25.988
+    },
+    {
+      "word": "mehnat",
+      "start": 25.988,
+      "end": 26.45
+    },
+    {
+      "word": "nahi",
+      "start": 26.45,
+      "end": 26.913
+    },
+    {
+      "word": "karte...",
+      "start": 26.913,
+      "end": 27.375
+    },
+    {
+      "word": "wo",
+      "start": 27.375,
+      "end": 27.838
+    },
+    {
+      "word": "5",
+      "start": 27.838,
+      "end": 28.3
+    },
+    {
+      "word": "ghante",
+      "start": 28.3,
+      "end": 28.763
+    },
+    {
+      "word": "ka",
+      "start": 28.763,
+      "end": 29.225
+    },
+    {
+      "word": "kaam",
+      "start": 29.225,
+      "end": 29.688
+    },
+    {
+      "word": "10",
+      "start": 29.688,
+      "end": 30.15
+    },
+    {
+      "word": "minute",
+      "start": 30.15,
+      "end": 30.613
+    },
+    {
+      "word": "me",
+      "start": 30.612,
+      "end": 31.075
+    },
+    {
+      "word": "nipatate",
+      "start": 31.075,
+      "end": 31.538
+    },
+    {
+      "word": "hain.",
+      "start": 31.537,
+      "end": 32.0
+    },
+    {
+      "word": "Bill",
+      "start": 32.46,
+      "end": 32.895
+    },
+    {
+      "word": "Gates",
+      "start": 32.895,
+      "end": 33.33
+    },
+    {
+      "word": "ne",
+      "start": 33.33,
+      "end": 33.765
+    },
+    {
+      "word": "ek",
+      "start": 33.765,
+      "end": 34.201
+    },
+    {
+      "word": "baar",
+      "start": 34.201,
+      "end": 34.636
+    },
+    {
+      "word": "kaha",
+      "start": 34.636,
+      "end": 35.071
+    },
+    {
+      "word": "tha:",
+      "start": 35.071,
+      "end": 35.506
+    },
+    {
+      "word": "Mushkil",
+      "start": 35.506,
+      "end": 35.941
+    },
+    {
+      "word": "kaam",
+      "start": 35.941,
+      "end": 36.376
+    },
+    {
+      "word": "ke",
+      "start": 36.376,
+      "end": 36.812
+    },
+    {
+      "word": "liye",
+      "start": 36.812,
+      "end": 37.247
+    },
+    {
+      "word": "hamesha",
+      "start": 37.247,
+      "end": 37.682
+    },
+    {
+      "word": "ek",
+      "start": 37.682,
+      "end": 38.117
+    },
+    {
+      "word": "aalsi",
+      "start": 38.117,
+      "end": 38.552
+    },
+    {
+      "word": "insaan",
+      "start": 38.552,
+      "end": 38.987
+    },
+    {
+      "word": "chuno.",
+      "start": 38.987,
+      "end": 39.422
+    },
+    {
+      "word": "Toh",
+      "start": 39.89,
+      "end": 40.352
+    },
+    {
+      "word": "kya",
+      "start": 40.352,
+      "end": 40.815
+    },
+    {
+      "word": "aap",
+      "start": 40.815,
+      "end": 41.277
+    },
+    {
+      "word": "aalsi",
+      "start": 41.278,
+      "end": 41.74
+    },
+    {
+      "word": "hain...",
+      "start": 41.74,
+      "end": 42.203
+    },
+    {
+      "word": "ya",
+      "start": 42.203,
+      "end": 42.665
+    },
+    {
+      "word": "smart?",
+      "start": 42.665,
+      "end": 43.127
+    },
+    {
+      "word": "Comment",
+      "start": 43.078,
+      "end": 43.611
+    },
+    {
+      "word": "me",
+      "start": 43.611,
+      "end": 44.145
+    },
+    {
+      "word": "sach",
+      "start": 44.145,
+      "end": 44.679
+    },
+    {
+      "word": "batayein",
+      "start": 44.679,
+      "end": 45.213
+    },
+    {
+      "word": "aur",
+      "start": 45.213,
+      "end": 45.747
+    },
+    {
+      "word": "subscribe",
+      "start": 45.747,
+      "end": 46.281
+    },
+    {
+      "word": "karein!",
+      "start": 46.281,
+      "end": 46.815
+    }
+  ]
+}

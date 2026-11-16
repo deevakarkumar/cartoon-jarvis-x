@@ -1,0 +1,170 @@
+{
+  "title": "What If You Play Video Games For Whole Day?",
+  "duration": 36.16,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 6.76,
+      "line": "Subah subah controller uthaya. Socha bas ek ghanta khelenge!",
+      "scene": "inciting_reality - bedroom",
+      "set": "bedroom",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: inciting_reality"
+    },
+    {
+      "id": "s002",
+      "start": 6.76,
+      "end": 11.48,
+      "line": "Ghante kab ghantey ban gaye, pata hi nahi chala dost!",
+      "scene": "turning_point - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.0,
+          "name": "whoosh",
+          "gain": -7
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: turning_point"
+    },
+    {
+      "id": "s003",
+      "start": 11.48,
+      "end": 17.11,
+      "line": "Aankhe laal ho gayi. Sar mein tez dard shuru ho gaya.",
+      "scene": "compounding_struggle - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -4
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: compounding_struggle"
+    },
+    {
+      "id": "s004",
+      "start": 17.11,
+      "end": 22.5,
+      "line": "Dopamine level peak par pahunchkar achanak se zero ho gaya!",
+      "scene": "critical_test - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: critical_test"
+    },
+    {
+      "id": "s005",
+      "start": 22.5,
+      "end": 28.78,
+      "line": "Pure 24 ghante baad, reality bilkul ek nightmare lagne lagi.",
+      "scene": "transformed_reality - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: transformed_reality"
+    },
+    {
+      "id": "s006",
+      "start": 28.78,
+      "end": 34.96,
+      "line": "Kya aap bina screen ke ek din bita sakte ho? Comment karo!",
+      "scene": "moral_cta - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: moral_cta"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 12.66,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 12.66,
+      "end": 27.12,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 27.12,
+      "end": 36.16,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

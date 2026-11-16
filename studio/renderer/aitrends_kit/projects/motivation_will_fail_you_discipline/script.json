@@ -1,0 +1,371 @@
+{
+  "title": "Motivation Will Fail You: Discipline Is Everything",
+  "topic": "The Cold Truth About Discipline: Why Waiting To Feel Ready Destroys You",
+  "language": "en",
+  "is_5min": true,
+  "aspect_ratio": "16:9",
+  "bg_style": "dayone_bedroom",
+  "primary_prop": "stopwatch",
+  "science_metric": {
+    "title": "NEURAL MOTIVATION DECAY",
+    "subtitle": "DOPAMINE NOVELTY vs HABIT FORMATION",
+    "from": 100.0,
+    "to": 0.0,
+    "unit": "%",
+    "label_start": "Day 1 (100%)",
+    "label_mid": "Day 8 (16%)",
+    "label_end": "Day 10 (0%)"
+  },
+  "comparison_bars": [
+    {
+      "label": "DISCIPLINE (HABIT)",
+      "v": 0.94,
+      "color": "#10b981"
+    },
+    {
+      "label": "MOTIVATION (FEELING)",
+      "v": 0.06,
+      "color": "#ef4444"
+    }
+  ],
+  "crisis_alert": {
+    "label": "MOTIVATION COLLAPSE",
+    "value": "RESISTANCE PEAK"
+  },
+  "youtube_kit": {
+    "viral_titles": [
+      "Motivation Will Fail You. Discipline Won't.",
+      "Why Waiting To Feel Ready Destroys You",
+      "The Day You Stop Relying On Motivation"
+    ],
+    "seo_description": "Why waiting for motivation will fail you. Master the compound formula of discipline over motivation. A frame-accurate breakdown inspired by Day One Films.",
+    "tags": [
+      "DayOneFilms",
+      "Discipline",
+      "Motivation",
+      "Productivity",
+      "Mindset",
+      "SelfImprovement",
+      "Habits",
+      "ShortFilm",
+      "Animation"
+    ],
+    "hashtags": [
+      "#Shorts",
+      "#Discipline",
+      "#Motivation",
+      "#Mindset",
+      "#DayOneFilms"
+    ],
+    "pinned_comment": "Do you wait until you 'feel ready'? Drop your thoughts below.",
+    "thumbnail_hook": "MOTIVATION LIES!",
+    "thumbnail_prop": "stopwatch"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "beat": "the_spark",
+      "narration": "1:00 AM. A late-night speech hits your screen. Dopamine spikes to 100%. Tomorrow. 5:00 AM.",
+      "char_pose": "lying",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "dayone_bedroom",
+      "props": [
+        {
+          "type": "alarm_clock",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "drone_hit",
+      "day_banner": "NIGHT 0",
+      "motivation_pct": 100,
+      "aura": 1.0,
+      "clock_time": "01:00",
+      "in_scene_text": "tomorrow. 5:00."
+    },
+    {
+      "scene_id": 2,
+      "beat": "the_honeymoon_run",
+      "narration": "Day 1. The alarm rings and you fly into the dark streets... glowing with pure golden motivation.",
+      "char_pose": "running",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "dayone_running_street",
+      "sfx": "whoosh",
+      "day_banner": "DAY 1",
+      "motivation_pct": 100,
+      "aura": 1.0,
+      "in_scene_text": "5:00 RUN"
+    },
+    {
+      "scene_id": 3,
+      "beat": "studio_dopamine_curve",
+      "narration": "Neuroscience reveals a brutal truth: Dopamine spikes crash by 84% within the first seven days.",
+      "char_pose": "pointing",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_light",
+      "sfx": "ding",
+      "bar_chart": {
+        "title": "NEURAL MOTIVATION DECAY",
+        "bars": [
+          {
+            "label": "Day 1",
+            "value": 100,
+            "color": "#06b6d4"
+          },
+          {
+            "label": "Day 3",
+            "value": 75,
+            "color": "#38bdf8"
+          },
+          {
+            "label": "Day 8",
+            "value": 16,
+            "color": "#f59e0b"
+          },
+          {
+            "label": "Day 10",
+            "value": 0,
+            "color": "#ef4444"
+          }
+        ]
+      },
+      "stage_badge": {
+        "num": 1,
+        "title": "THE NOVELTY ILLUSION"
+      }
+    },
+    {
+      "scene_id": 4,
+      "beat": "the_gym_high",
+      "narration": "Day 3. Crushing iron at the gym. You feel completely invincible, like nothing can ever stop you.",
+      "char_pose": "lifting",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "dayone_gym",
+      "props": [
+        {
+          "type": "dumbbell",
+          "scale": 1.3
+        }
+      ],
+      "sfx": "pop",
+      "day_banner": "DAY 3",
+      "motivation_pct": 75,
+      "aura": 0.75,
+      "in_scene_text": "NO EXCUSES"
+    },
+    {
+      "scene_id": 5,
+      "beat": "the_depletion_slump",
+      "narration": "Day 8. Motivation plummets to 16%. Studying feels like dragging heavy bricks through wet cement.",
+      "char_pose": "slouching",
+      "expression": "exhausted",
+      "shot_type": "standard",
+      "bg_style": "dayone_study_desk",
+      "props": [
+        {
+          "type": "book",
+          "scale": 1.1
+        }
+      ],
+      "sfx": "pop",
+      "day_banner": "DAY 8",
+      "motivation_pct": 16,
+      "aura": 0.0,
+      "dark_bags": true,
+      "in_scene_text": "MOTIVATION 16%"
+    },
+    {
+      "scene_id": 6,
+      "beat": "studio_amateur_trap",
+      "narration": "This is where ninety-nine percent fail: They wait until they 'feel like it' to take action.",
+      "char_pose": "explaining",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_light",
+      "sfx": "shatter",
+      "comparison_split": {
+        "left": {
+          "title": "99% AMATEUR TRAP",
+          "points": [
+            "Wait for inspiration",
+            "Feelings dictate action",
+            "Quit when excitement dies"
+          ]
+        },
+        "right": {
+          "title": "1% DISCIPLINE FORMULA",
+          "points": [
+            "Scheduled execution",
+            "Action creates feeling",
+            "Identity-driven daily system"
+          ]
+        }
+      },
+      "stage_badge": {
+        "num": 2,
+        "title": "SHATTERING ASSUMPTIONS"
+      }
+    },
+    {
+      "scene_id": 7,
+      "beat": "the_crash_and_demon",
+      "narration": "Day 10. Alarm 5:07. Motivation 0%. From the shadows, the Demon whispers: Wait till you feel ready...",
+      "char_pose": "lying",
+      "expression": "exhausted",
+      "shot_type": "standard",
+      "bg_style": "dayone_bedroom",
+      "sfx": "shatter",
+      "day_banner": "DAY 10",
+      "motivation_pct": 0,
+      "aura": 0.0,
+      "dark_bags": true,
+      "clock_time": "05:07",
+      "shadow_demon": true,
+      "whisper_text": "wait till you feel it again..."
+    },
+    {
+      "scene_id": 8,
+      "beat": "studio_resistance_gauge",
+      "narration": "Psychologists call this Resistance—the friction your brain generates when dopamine runs completely dry.",
+      "char_pose": "thinking",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_dark",
+      "sfx": "ding",
+      "circular_gauge": {
+        "value": 98,
+        "label": "RESISTANCE PEAK",
+        "unit": "%"
+      },
+      "stage_badge": {
+        "num": 3,
+        "title": "UNVEILING THE FRICTION"
+      }
+    },
+    {
+      "scene_id": 9,
+      "beat": "the_discipline_decision",
+      "narration": "5:01 AM. Without feeling ready, without any excitement... you step out of bed. The Demon freezes.",
+      "char_pose": "standing",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "dayone_bedroom",
+      "sfx": "ding",
+      "day_banner": "5:01 AM",
+      "motivation_pct": 0,
+      "aura": 0.0,
+      "clock_time": "05:01",
+      "shadow_demon": true,
+      "whisper_text": "...what are you doing?"
+    },
+    {
+      "scene_id": 10,
+      "beat": "the_dragging_grind",
+      "narration": "Day 11. Dragging your exhausted body into the dawn. Discipline is moving forward when motivation is dead.",
+      "char_pose": "running",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "dayone_running_street",
+      "sfx": "whoosh",
+      "day_banner": "DAY 11",
+      "motivation_pct": 10,
+      "aura": 0.0,
+      "fatigue_figure": true,
+      "in_scene_text": "Discipline is what keeps you going"
+    },
+    {
+      "scene_id": 11,
+      "beat": "studio_identity_shift",
+      "narration": "Discipline doesn't consult your feelings. It is an unbreakable contract made with your future self.",
+      "char_pose": "pointing",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_light",
+      "sfx": "pop",
+      "glass_card": {
+        "title": "THE IDENTITY CONTRACT",
+        "subtitle": "You do not rise to your goals; you fall to the level of your daily systems."
+      }
+    },
+    {
+      "scene_id": 12,
+      "beat": "the_automatic_routine",
+      "narration": "Day 21. Waking up is no longer a battle. The habit has hardwired directly into your nervous system.",
+      "char_pose": "typing",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "dayone_study_desk",
+      "day_banner": "DAY 21",
+      "motivation_pct": 25,
+      "aura": 0.2,
+      "in_scene_text": "AUTOMATIC ROUTINE"
+    },
+    {
+      "scene_id": 13,
+      "beat": "the_gym_compound",
+      "narration": "Day 45. Moving iron with effortless execution. Fatigue has compounded into unbreakable resilience.",
+      "char_pose": "lifting",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "dayone_gym",
+      "props": [
+        {
+          "type": "dumbbell",
+          "scale": 1.3
+        }
+      ],
+      "sfx": "pop",
+      "day_banner": "DAY 45",
+      "motivation_pct": 38,
+      "aura": 0.35,
+      "in_scene_text": "COMPOUND POWER"
+    },
+    {
+      "scene_id": 14,
+      "beat": "the_breakthrough_graph",
+      "narration": "Day 62. The sunrise hits the road. Motivation returned... because you stopped waiting to feel like it.",
+      "char_pose": "standing",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "dayone_sunrise",
+      "sfx": "title_boom",
+      "day_banner": "DAY 62",
+      "motivation_pct": 47,
+      "aura": 0.5,
+      "discipline_graph": true
+    },
+    {
+      "scene_id": 15,
+      "beat": "studio_master_transformation",
+      "narration": "Motivation is an unreliable visitor. Discipline is the master that builds the empire.",
+      "char_pose": "cheer",
+      "expression": "motivated",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_light",
+      "sfx": "ding",
+      "stage_badge": {
+        "num": 4,
+        "title": "THE ULTIMATE TRUTH"
+      }
+    },
+    {
+      "scene_id": 16,
+      "beat": "the_discussion_cta",
+      "narration": "What is the ONE habit you quit on Day 8 because you didn't feel ready? Tell us below.",
+      "char_pose": "pointing",
+      "expression": "disciplined",
+      "shot_type": "standard",
+      "bg_style": "studio_tech_dark",
+      "sfx": "title_boom",
+      "stage_badge": {
+        "num": 5,
+        "title": "COMMUNITY DEBATE"
+      }
+    }
+  ],
+  "source": "smart_offline_engine",
+  "style": "hybrid"
+}

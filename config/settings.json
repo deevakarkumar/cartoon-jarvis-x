@@ -1,0 +1,28 @@
+{
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "aspect_ratio": "16:9"
+  },
+  "voices": {
+    "hi": "hi-IN-MadhurNeural",
+    "en": "en-US-ChristopherNeural"
+  },
+  "subtitles": {
+    "font_size": 48,
+    "primary_color": "#FFE600",
+    "text_color": "#FFFFFF",
+    "border_color": "#000000",
+    "border_width": 4,
+    "position_y_ratio": 0.82
+  },
+  "style": {
+    "bg_color": "#1A1A24",
+    "bg_style": "minimal_grid",
+    "line_color": "#0F0F14",
+    "character_color": "#FFFFFF",
+    "outline_color": "#111111",
+    "outline_width": 5
+  }
+}

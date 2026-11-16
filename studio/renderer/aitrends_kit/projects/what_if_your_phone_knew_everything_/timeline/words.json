@@ -1,0 +1,369 @@
+{
+  "words": [
+    {
+      "word": "You",
+      "start": 0.1,
+      "end": 0.499
+    },
+    {
+      "word": "order",
+      "start": 0.499,
+      "end": 0.898
+    },
+    {
+      "word": "food,",
+      "start": 0.898,
+      "end": 1.297
+    },
+    {
+      "word": "find",
+      "start": 1.297,
+      "end": 1.696
+    },
+    {
+      "word": "your",
+      "start": 1.696,
+      "end": 2.095
+    },
+    {
+      "word": "way,",
+      "start": 2.095,
+      "end": 2.494
+    },
+    {
+      "word": "then",
+      "start": 2.494,
+      "end": 2.893
+    },
+    {
+      "word": "your",
+      "start": 2.893,
+      "end": 3.292
+    },
+    {
+      "word": "phone",
+      "start": 3.292,
+      "end": 3.691
+    },
+    {
+      "word": "predicts",
+      "start": 3.691,
+      "end": 4.09
+    },
+    {
+      "word": "your",
+      "start": 4.09,
+      "end": 4.489
+    },
+    {
+      "word": "thoughts.",
+      "start": 4.489,
+      "end": 4.887
+    },
+    {
+      "word": "What",
+      "start": 5.35,
+      "end": 5.695
+    },
+    {
+      "word": "if",
+      "start": 5.695,
+      "end": 6.041
+    },
+    {
+      "word": "your",
+      "start": 6.041,
+      "end": 6.386
+    },
+    {
+      "word": "mobile",
+      "start": 6.386,
+      "end": 6.731
+    },
+    {
+      "word": "phone",
+      "start": 6.731,
+      "end": 7.077
+    },
+    {
+      "word": "read",
+      "start": 7.077,
+      "end": 7.422
+    },
+    {
+      "word": "your",
+      "start": 7.422,
+      "end": 7.767
+    },
+    {
+      "word": "mind?",
+      "start": 7.767,
+      "end": 8.113
+    },
+    {
+      "word": "But",
+      "start": 8.062,
+      "end": 8.622
+    },
+    {
+      "word": "it",
+      "start": 8.622,
+      "end": 9.181
+    },
+    {
+      "word": "shares",
+      "start": 9.181,
+      "end": 9.741
+    },
+    {
+      "word": "everything.",
+      "start": 9.741,
+      "end": 10.3
+    },
+    {
+      "word": "Tests",
+      "start": 10.81,
+      "end": 11.46
+    },
+    {
+      "word": "are",
+      "start": 11.46,
+      "end": 12.11
+    },
+    {
+      "word": "easy.",
+      "start": 12.11,
+      "end": 12.76
+    },
+    {
+      "word": "You",
+      "start": 12.71,
+      "end": 13.263
+    },
+    {
+      "word": "win",
+      "start": 13.263,
+      "end": 13.816
+    },
+    {
+      "word": "every",
+      "start": 13.816,
+      "end": 14.369
+    },
+    {
+      "word": "argument.",
+      "start": 14.369,
+      "end": 14.922
+    },
+    {
+      "word": "Your",
+      "start": 14.923,
+      "end": 15.45
+    },
+    {
+      "word": "phone",
+      "start": 15.45,
+      "end": 15.978
+    },
+    {
+      "word": "knows",
+      "start": 15.978,
+      "end": 16.505
+    },
+    {
+      "word": "all",
+      "start": 16.505,
+      "end": 17.033
+    },
+    {
+      "word": "secrets.",
+      "start": 17.033,
+      "end": 17.56
+    },
+    {
+      "word": "Your",
+      "start": 18.07,
+      "end": 18.803
+    },
+    {
+      "word": "brain",
+      "start": 18.803,
+      "end": 19.537
+    },
+    {
+      "word": "struggles.",
+      "start": 19.537,
+      "end": 20.27
+    },
+    {
+      "word": "Constant",
+      "start": 20.22,
+      "end": 20.801
+    },
+    {
+      "word": "data",
+      "start": 20.801,
+      "end": 21.382
+    },
+    {
+      "word": "overload",
+      "start": 21.383,
+      "end": 21.964
+    },
+    {
+      "word": "reduces",
+      "start": 21.964,
+      "end": 22.545
+    },
+    {
+      "word": "attention",
+      "start": 22.545,
+      "end": 23.126
+    },
+    {
+      "word": "span",
+      "start": 23.126,
+      "end": 23.707
+    },
+    {
+      "word": "by",
+      "start": 23.708,
+      "end": 24.289
+    },
+    {
+      "word": "40%.",
+      "start": 24.289,
+      "end": 24.87
+    },
+    {
+      "word": "That's",
+      "start": 24.87,
+      "end": 25.664
+    },
+    {
+      "word": "real.",
+      "start": 25.664,
+      "end": 26.458
+    },
+    {
+      "word": "Now",
+      "start": 26.96,
+      "end": 27.46
+    },
+    {
+      "word": "everyone",
+      "start": 27.46,
+      "end": 27.96
+    },
+    {
+      "word": "knows",
+      "start": 27.96,
+      "end": 28.46
+    },
+    {
+      "word": "your",
+      "start": 28.46,
+      "end": 28.96
+    },
+    {
+      "word": "deepest",
+      "start": 28.96,
+      "end": 29.46
+    },
+    {
+      "word": "thoughts.",
+      "start": 29.46,
+      "end": 29.96
+    },
+    {
+      "word": "Total",
+      "start": 29.91,
+      "end": 30.681
+    },
+    {
+      "word": "privacy",
+      "start": 30.681,
+      "end": 31.452
+    },
+    {
+      "word": "loss.",
+      "start": 31.452,
+      "end": 32.222
+    },
+    {
+      "word": "Social",
+      "start": 32.222,
+      "end": 33.072
+    },
+    {
+      "word": "trust",
+      "start": 33.072,
+      "end": 33.922
+    },
+    {
+      "word": "collapses.",
+      "start": 33.922,
+      "end": 34.772
+    },
+    {
+      "word": "Would",
+      "start": 35.28,
+      "end": 35.685
+    },
+    {
+      "word": "you",
+      "start": 35.685,
+      "end": 36.091
+    },
+    {
+      "word": "keep",
+      "start": 36.091,
+      "end": 36.496
+    },
+    {
+      "word": "this",
+      "start": 36.496,
+      "end": 36.901
+    },
+    {
+      "word": "all-knowing",
+      "start": 36.901,
+      "end": 37.307
+    },
+    {
+      "word": "mobile",
+      "start": 37.307,
+      "end": 37.712
+    },
+    {
+      "word": "phone?",
+      "start": 37.712,
+      "end": 38.118
+    },
+    {
+      "word": "Or",
+      "start": 38.068,
+      "end": 38.665
+    },
+    {
+      "word": "abandon",
+      "start": 38.665,
+      "end": 39.263
+    },
+    {
+      "word": "total",
+      "start": 39.262,
+      "end": 39.86
+    },
+    {
+      "word": "connection",
+      "start": 39.86,
+      "end": 40.457
+    },
+    {
+      "word": "forever?",
+      "start": 40.457,
+      "end": 41.055
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "title": "How One Small Habit Completely Transformed My Entire School Life",
+  "duration": 40.25,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 5.44,
+      "line": "You sit at the back desk. Failing every single test.",
+      "scene": "Inciting Reality - classroom",
+      "set": "classroom",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -4
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: Inciting Reality"
+    },
+    {
+      "id": "s002",
+      "start": 5.44,
+      "end": 11.98,
+      "line": "One simple rule changed everything. Study twenty minutes every single night.",
+      "scene": "The Turning Point - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: The Turning Point"
+    },
+    {
+      "id": "s003",
+      "start": 11.98,
+      "end": 18.11,
+      "line": "Consistency hurt at first. Distractions tried pulling you back down.",
+      "scene": "Compounding Struggle - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: Compounding Struggle"
+    },
+    {
+      "id": "s004",
+      "start": 18.11,
+      "end": 24.41,
+      "line": "Then the big exam arrived. Questions suddenly felt incredibly easy.",
+      "scene": "Critical Test - classroom",
+      "set": "classroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: Critical Test"
+    },
+    {
+      "id": "s005",
+      "start": 24.41,
+      "end": 32.51,
+      "line": "Top grades secured. Teachers noticed. Your entire social standing completely flipped.",
+      "scene": "Transformed Reality - classroom",
+      "set": "classroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: Transformed Reality"
+    },
+    {
+      "id": "s006",
+      "start": 32.51,
+      "end": 39.05,
+      "line": "Small daily habits build unstoppable futures. Will you start yours today?",
+      "scene": "Moral & Call to Action - classroom",
+      "set": "classroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.0,
+          "name": "whoosh",
+          "gain": -7
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: Moral & Call to Action"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 14.09,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 14.09,
+      "end": 30.19,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 30.19,
+      "end": 40.25,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

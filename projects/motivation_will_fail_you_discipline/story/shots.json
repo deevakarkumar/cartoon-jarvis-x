@@ -1,0 +1,430 @@
+{
+  "title": "Motivation Will Fail You: Discipline Is Everything",
+  "duration": 139.28,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 11.46,
+      "line": "1:00 AM. A late-night speech hits your screen. Dopamine spikes to 100%. Tomorrow. 5:00 AM.",
+      "scene": "the_spark - dayoneBedroom",
+      "set": "dayoneBedroom",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -4
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_spark"
+    },
+    {
+      "id": "s002",
+      "start": 11.46,
+      "end": 19.25,
+      "line": "Day 1. The alarm rings and you fly into the dark streets... glowing with pure golden motivation.",
+      "scene": "the_honeymoon_run - dayoneRunningStreet",
+      "set": "dayoneRunningStreet",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.0,
+          "name": "whoosh",
+          "gain": -7
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_honeymoon_run"
+    },
+    {
+      "id": "s003",
+      "start": 19.25,
+      "end": 27.09,
+      "line": "Neuroscience reveals a brutal truth: Dopamine spikes crash by 84% within the first seven days.",
+      "scene": "studio_dopamine_curve - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: studio_dopamine_curve"
+    },
+    {
+      "id": "s004",
+      "start": 27.09,
+      "end": 35.94,
+      "line": "Day 3. Crushing iron at the gym. You feel completely invincible, like nothing can ever stop you.",
+      "scene": "the_gym_high - dayoneGym",
+      "set": "dayoneGym",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_gym_high"
+    },
+    {
+      "id": "s005",
+      "start": 35.94,
+      "end": 45.34,
+      "line": "Day 8. Motivation plummets to 16%. Studying feels like dragging heavy bricks through wet cement.",
+      "scene": "the_depletion_slump - dayoneStudyDesk",
+      "set": "dayoneStudyDesk",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_depletion_slump"
+    },
+    {
+      "id": "s006",
+      "start": 45.34,
+      "end": 51.47,
+      "line": "This is where ninety-nine percent fail: They wait until they 'feel like it' to take action.",
+      "scene": "studio_amateur_trap - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -3
+        },
+        {
+          "at": 0.15,
+          "name": "glitch",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: studio_amateur_trap"
+    },
+    {
+      "id": "s007",
+      "start": 51.47,
+      "end": 63.2,
+      "line": "Day 10. Alarm 5:07. Motivation 0%. From the shadows, the Demon whispers: Wait till you feel ready...",
+      "scene": "the_crash_and_demon - dayoneBedroom",
+      "set": "dayoneBedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -3
+        },
+        {
+          "at": 0.15,
+          "name": "glitch",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_crash_and_demon"
+    },
+    {
+      "id": "s008",
+      "start": 63.2,
+      "end": 70.61,
+      "line": "Psychologists call this Resistance\u2014the friction your brain generates when dopamine runs completely dry.",
+      "scene": "studio_resistance_gauge - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: studio_resistance_gauge"
+    },
+    {
+      "id": "s009",
+      "start": 70.61,
+      "end": 80.39,
+      "line": "5:01 AM. Without feeling ready, without any excitement... you step out of bed. The Demon freezes.",
+      "scene": "the_discipline_decision - dayoneBedroom",
+      "set": "dayoneBedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_discipline_decision"
+    },
+    {
+      "id": "s010",
+      "start": 80.39,
+      "end": 89.43,
+      "line": "Day 11. Dragging your exhausted body into the dawn. Discipline is moving forward when motivation is dead.",
+      "scene": "the_dragging_grind - dayoneRunningStreet",
+      "set": "dayoneRunningStreet",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.0,
+          "name": "whoosh",
+          "gain": -7
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_dragging_grind"
+    },
+    {
+      "id": "s011",
+      "start": 89.43,
+      "end": 96.69,
+      "line": "Discipline doesn't consult your feelings. It is an unbreakable contract made with your future self.",
+      "scene": "studio_identity_shift - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: studio_identity_shift"
+    },
+    {
+      "id": "s012",
+      "start": 96.69,
+      "end": 105.7,
+      "line": "Day 21. Waking up is no longer a battle. The habit has hardwired directly into your nervous system.",
+      "scene": "the_automatic_routine - dayoneStudyDesk",
+      "set": "dayoneStudyDesk",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_automatic_routine"
+    },
+    {
+      "id": "s013",
+      "start": 105.7,
+      "end": 115.24,
+      "line": "Day 45. Moving iron with effortless execution. Fatigue has compounded into unbreakable resilience.",
+      "scene": "the_gym_compound - dayoneGym",
+      "set": "dayoneGym",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_gym_compound"
+    },
+    {
+      "id": "s014",
+      "start": 115.24,
+      "end": 124.64,
+      "line": "Day 62. The sunrise hits the road. Motivation returned... because you stopped waiting to feel like it.",
+      "scene": "the_breakthrough_graph - dayoneSunrise",
+      "set": "dayoneSunrise",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_breakthrough_graph"
+    },
+    {
+      "id": "s015",
+      "start": 124.64,
+      "end": 131.59,
+      "line": "Motivation is an unreliable visitor. Discipline is the master that builds the empire.",
+      "scene": "studio_master_transformation - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: studio_master_transformation"
+    },
+    {
+      "id": "s016",
+      "start": 131.59,
+      "end": 138.08,
+      "line": "What is the ONE habit you quit on Day 8 because you didn't feel ready? Tell us below.",
+      "scene": "the_discussion_cta - studioTech",
+      "set": "studioTech",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_discussion_cta"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 48.75,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 48.75,
+      "end": 104.46,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 104.46,
+      "end": 139.28,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

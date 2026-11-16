@@ -1,0 +1,339 @@
+{
+  "words": [
+    {
+      "word": "Imagine.",
+      "start": 0.1,
+      "end": 1.65
+    },
+    {
+      "word": "One",
+      "start": 1.6,
+      "end": 2.225
+    },
+    {
+      "word": "morning,",
+      "start": 2.225,
+      "end": 2.85
+    },
+    {
+      "word": "all",
+      "start": 2.85,
+      "end": 3.475
+    },
+    {
+      "word": "AI",
+      "start": 3.475,
+      "end": 4.1
+    },
+    {
+      "word": "vanishes.",
+      "start": 4.1,
+      "end": 4.725
+    },
+    {
+      "word": "Your",
+      "start": 4.725,
+      "end": 5.234
+    },
+    {
+      "word": "phone",
+      "start": 5.234,
+      "end": 5.744
+    },
+    {
+      "word": "is",
+      "start": 5.744,
+      "end": 6.253
+    },
+    {
+      "word": "dead.",
+      "start": 6.253,
+      "end": 6.763
+    },
+    {
+      "word": "Traffic",
+      "start": 7.27,
+      "end": 7.991
+    },
+    {
+      "word": "lights",
+      "start": 7.991,
+      "end": 8.712
+    },
+    {
+      "word": "fail.",
+      "start": 8.712,
+      "end": 9.433
+    },
+    {
+      "word": "Banks",
+      "start": 9.382,
+      "end": 10.308
+    },
+    {
+      "word": "freeze.",
+      "start": 10.308,
+      "end": 11.232
+    },
+    {
+      "word": "Global",
+      "start": 11.232,
+      "end": 11.97
+    },
+    {
+      "word": "systems",
+      "start": 11.97,
+      "end": 12.707
+    },
+    {
+      "word": "halt.",
+      "start": 12.707,
+      "end": 13.445
+    },
+    {
+      "word": "Instant",
+      "start": 13.445,
+      "end": 14.47
+    },
+    {
+      "word": "chaos.",
+      "start": 14.47,
+      "end": 15.495
+    },
+    {
+      "word": "Supply",
+      "start": 16.0,
+      "end": 16.771
+    },
+    {
+      "word": "chains",
+      "start": 16.771,
+      "end": 17.542
+    },
+    {
+      "word": "shatter.",
+      "start": 17.542,
+      "end": 18.313
+    },
+    {
+      "word": "Power",
+      "start": 18.262,
+      "end": 18.971
+    },
+    {
+      "word": "grids",
+      "start": 18.971,
+      "end": 19.679
+    },
+    {
+      "word": "fail.",
+      "start": 19.679,
+      "end": 20.387
+    },
+    {
+      "word": "Food",
+      "start": 20.387,
+      "end": 21.217
+    },
+    {
+      "word": "disappears",
+      "start": 21.217,
+      "end": 22.046
+    },
+    {
+      "word": "fast.",
+      "start": 22.046,
+      "end": 22.875
+    },
+    {
+      "word": "Panic",
+      "start": 22.875,
+      "end": 23.812
+    },
+    {
+      "word": "spreads.",
+      "start": 23.812,
+      "end": 24.75
+    },
+    {
+      "word": "AI",
+      "start": 25.25,
+      "end": 26.071
+    },
+    {
+      "word": "manages",
+      "start": 26.071,
+      "end": 26.892
+    },
+    {
+      "word": "everything.",
+      "start": 26.892,
+      "end": 27.712
+    },
+    {
+      "word": "Logistics,",
+      "start": 27.663,
+      "end": 28.85
+    },
+    {
+      "word": "medicine,",
+      "start": 28.85,
+      "end": 30.038
+    },
+    {
+      "word": "communication.",
+      "start": 30.038,
+      "end": 31.225
+    },
+    {
+      "word": "It's",
+      "start": 31.225,
+      "end": 31.847
+    },
+    {
+      "word": "our",
+      "start": 31.847,
+      "end": 32.469
+    },
+    {
+      "word": "invisible",
+      "start": 32.469,
+      "end": 33.091
+    },
+    {
+      "word": "backbone.",
+      "start": 33.091,
+      "end": 33.712
+    },
+    {
+      "word": "No",
+      "start": 34.22,
+      "end": 34.755
+    },
+    {
+      "word": "AI",
+      "start": 34.755,
+      "end": 35.291
+    },
+    {
+      "word": "means",
+      "start": 35.291,
+      "end": 35.826
+    },
+    {
+      "word": "no",
+      "start": 35.826,
+      "end": 36.362
+    },
+    {
+      "word": "modern",
+      "start": 36.362,
+      "end": 36.897
+    },
+    {
+      "word": "world.",
+      "start": 36.897,
+      "end": 37.432
+    },
+    {
+      "word": "Society",
+      "start": 37.383,
+      "end": 38.558
+    },
+    {
+      "word": "collapses.",
+      "start": 38.558,
+      "end": 39.732
+    },
+    {
+      "word": "We",
+      "start": 39.732,
+      "end": 40.242
+    },
+    {
+      "word": "return",
+      "start": 40.242,
+      "end": 40.752
+    },
+    {
+      "word": "to",
+      "start": 40.753,
+      "end": 41.263
+    },
+    {
+      "word": "dark",
+      "start": 41.263,
+      "end": 41.772
+    },
+    {
+      "word": "ages.",
+      "start": 41.772,
+      "end": 42.282
+    },
+    {
+      "word": "Can",
+      "start": 42.8,
+      "end": 43.242
+    },
+    {
+      "word": "we",
+      "start": 43.242,
+      "end": 43.685
+    },
+    {
+      "word": "survive",
+      "start": 43.685,
+      "end": 44.127
+    },
+    {
+      "word": "without",
+      "start": 44.128,
+      "end": 44.57
+    },
+    {
+      "word": "it?",
+      "start": 44.57,
+      "end": 45.012
+    },
+    {
+      "word": "Or",
+      "start": 44.963,
+      "end": 45.427
+    },
+    {
+      "word": "is",
+      "start": 45.427,
+      "end": 45.891
+    },
+    {
+      "word": "AI",
+      "start": 45.891,
+      "end": 46.355
+    },
+    {
+      "word": "now",
+      "start": 46.355,
+      "end": 46.819
+    },
+    {
+      "word": "essential",
+      "start": 46.819,
+      "end": 47.283
+    },
+    {
+      "word": "for",
+      "start": 47.283,
+      "end": 47.747
+    },
+    {
+      "word": "humanity's",
+      "start": 47.747,
+      "end": 48.211
+    },
+    {
+      "word": "future?",
+      "start": 48.211,
+      "end": 48.675
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+# ============================================================
+# CARTOON-JARVIS .gitignore
+# Source code only — videos, audio, and large binaries excluded
+# ============================================================
+
+# --- Media files (Everywhere) ---
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.mp3
+*.wav
+*.aac
+*.ogg
+*.flac
+*.m4a
+
+# --- Render build & output folders (Everywhere) ---
+**/build/
+**/out/
+**/parts/
+**/temp/
+**/scratch/
+**/debug_frames/
+output_videos/
+**/final_video.mp4
+
+# --- Generated images in project folders ---
+projects/*/images/
+projects/*/audio/
+projects/*/build/
+projects/*/out/
+studio/renderer/aitrends_kit/projects/*/images/
+studio/renderer/aitrends_kit/projects/*/audio/
+studio/renderer/aitrends_kit/projects/*/build/
+studio/renderer/aitrends_kit/projects/*/out/
+
+# --- Third-party / vendors ---
+vendor/
+
+# --- Python cache & virtual environments ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+ENV/
+
+# --- Node / Playwright ---
+node_modules/
+.npm/
+ms-playwright/
+npm-debug.log*
+
+# --- Environment & secrets ---
+.env
+.env.*
+*.key
+secrets.json
+
+# --- OS & Editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log

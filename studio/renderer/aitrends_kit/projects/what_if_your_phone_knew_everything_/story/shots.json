@@ -1,0 +1,176 @@
+{
+  "title": "What If Your Phone Knew EVERYTHING You Thought?",
+  "duration": 42.66,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 5.25,
+      "line": "You order food, find your way, then your phone predicts your thoughts.",
+      "scene": "cold_hook - cityStreet",
+      "set": "cityStreet",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "ding",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: cold_hook"
+    },
+    {
+      "id": "s002",
+      "start": 5.25,
+      "end": 10.71,
+      "line": "What if your mobile phone read your mind? But it shares everything.",
+      "scene": "the_premise - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "whoosh",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_premise"
+    },
+    {
+      "id": "s003",
+      "start": 10.71,
+      "end": 17.97,
+      "line": "Tests are easy. You win every argument. Your phone knows all secrets.",
+      "scene": "the_fun_part - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "pop",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_fun_part"
+    },
+    {
+      "id": "s004",
+      "start": 17.97,
+      "end": 26.86,
+      "line": "Your brain struggles. Constant data overload reduces attention span by 40%. That's real.",
+      "scene": "the_science_turn - lab",
+      "set": "lab",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_science_turn"
+    },
+    {
+      "id": "s005",
+      "start": 26.86,
+      "end": 35.18,
+      "line": "Now everyone knows your deepest thoughts. Total privacy loss. Social trust collapses.",
+      "scene": "the_friction_wall - ruinsWasteland",
+      "set": "ruinsWasteland",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_friction_wall"
+    },
+    {
+      "id": "s006",
+      "start": 35.18,
+      "end": 41.46,
+      "line": "Would you keep this all-knowing mobile phone? Or abandon total connection forever?",
+      "scene": "the_cliffhanger_cta - spaceVoid",
+      "set": "spaceVoid",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "slowmo",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_cliffhanger_cta"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 14.93,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 14.93,
+      "end": 31.99,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 31.99,
+      "end": 42.66,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

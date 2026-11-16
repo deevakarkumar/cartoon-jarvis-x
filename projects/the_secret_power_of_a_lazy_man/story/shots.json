@@ -1,0 +1,181 @@
+{
+  "title": "The Secret Power of a Lazy Man",
+  "duration": 48.42,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 7.55,
+      "line": "Subah 7:00 baje. Alarm 40 minute se baj raha hai... par aap hile bhi nahi.",
+      "scene": "cold_hook - bedroom",
+      "set": "bedroom",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -4
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: cold_hook"
+    },
+    {
+      "id": "s002",
+      "start": 7.55,
+      "end": 16.4,
+      "line": "Duniya aapko aalsi kehti hai. Par sach yeh hai... aapka dimaag energy bacha raha hai.",
+      "scene": "character_flaw - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: character_flaw"
+    },
+    {
+      "id": "s003",
+      "start": 16.4,
+      "end": 24.5,
+      "line": "Pahaad jaisa pending kaam. Aur sudden deadline... jo aapki neend uda deti hai!",
+      "scene": "the_crisis - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -3
+        },
+        {
+          "at": 0.15,
+          "name": "glitch",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_crisis"
+    },
+    {
+      "id": "s004",
+      "start": 24.5,
+      "end": 32.36,
+      "line": "Kyunki aalsi log mehnat nahi karte... wo 5 ghante ka kaam 10 minute me nipatate hain.",
+      "scene": "the_lazy_genius - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_lazy_genius"
+    },
+    {
+      "id": "s005",
+      "start": 32.36,
+      "end": 39.79,
+      "line": "Bill Gates ne ek baar kaha tha: Mushkil kaam ke liye hamesha ek aalsi insaan chuno.",
+      "scene": "the_twist - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "pop",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_twist"
+    },
+    {
+      "id": "s006",
+      "start": 39.79,
+      "end": 47.22,
+      "line": "Toh kya aap aalsi hain... ya smart? Comment me sach batayein aur subscribe karein!",
+      "scene": "climax_cta - bedroom",
+      "set": "bedroom",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: climax_cta"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 16.95,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 16.95,
+      "end": 36.31,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 36.31,
+      "end": 48.42,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

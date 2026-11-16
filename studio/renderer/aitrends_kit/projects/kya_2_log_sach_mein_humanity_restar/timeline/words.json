@@ -1,0 +1,404 @@
+{
+  "words": [
+    {
+      "word": "Sirf",
+      "start": 0.1,
+      "end": 0.713
+    },
+    {
+      "word": "do",
+      "start": 0.713,
+      "end": 1.325
+    },
+    {
+      "word": "log",
+      "start": 1.325,
+      "end": 1.938
+    },
+    {
+      "word": "bache",
+      "start": 1.938,
+      "end": 2.55
+    },
+    {
+      "word": "hain!",
+      "start": 2.55,
+      "end": 3.163
+    },
+    {
+      "word": "Kya",
+      "start": 3.112,
+      "end": 3.585
+    },
+    {
+      "word": "ye",
+      "start": 3.585,
+      "end": 4.057
+    },
+    {
+      "word": "poori",
+      "start": 4.057,
+      "end": 4.529
+    },
+    {
+      "word": "humanity",
+      "start": 4.529,
+      "end": 5.001
+    },
+    {
+      "word": "ko",
+      "start": 5.001,
+      "end": 5.474
+    },
+    {
+      "word": "wapas",
+      "start": 5.474,
+      "end": 5.946
+    },
+    {
+      "word": "la",
+      "start": 5.946,
+      "end": 6.418
+    },
+    {
+      "word": "sakte",
+      "start": 6.418,
+      "end": 6.89
+    },
+    {
+      "word": "hain?",
+      "start": 6.89,
+      "end": 7.362
+    },
+    {
+      "word": "Socho",
+      "start": 7.87,
+      "end": 8.32
+    },
+    {
+      "word": "earth",
+      "start": 8.32,
+      "end": 8.77
+    },
+    {
+      "word": "par",
+      "start": 8.77,
+      "end": 9.22
+    },
+    {
+      "word": "bas",
+      "start": 9.22,
+      "end": 9.67
+    },
+    {
+      "word": "aap",
+      "start": 9.67,
+      "end": 10.12
+    },
+    {
+      "word": "aur",
+      "start": 10.12,
+      "end": 10.57
+    },
+    {
+      "word": "ek",
+      "start": 10.57,
+      "end": 11.02
+    },
+    {
+      "word": "aur",
+      "start": 11.02,
+      "end": 11.47
+    },
+    {
+      "word": "insan",
+      "start": 11.47,
+      "end": 11.92
+    },
+    {
+      "word": "ho.",
+      "start": 11.92,
+      "end": 12.37
+    },
+    {
+      "word": "Par",
+      "start": 12.32,
+      "end": 12.954
+    },
+    {
+      "word": "ek",
+      "start": 12.954,
+      "end": 13.589
+    },
+    {
+      "word": "catch",
+      "start": 13.589,
+      "end": 14.223
+    },
+    {
+      "word": "hai!",
+      "start": 14.223,
+      "end": 14.858
+    },
+    {
+      "word": "Pehle",
+      "start": 15.37,
+      "end": 15.832
+    },
+    {
+      "word": "kuch",
+      "start": 15.832,
+      "end": 16.295
+    },
+    {
+      "word": "saalon",
+      "start": 16.295,
+      "end": 16.757
+    },
+    {
+      "word": "tak",
+      "start": 16.758,
+      "end": 17.22
+    },
+    {
+      "word": "khana",
+      "start": 17.22,
+      "end": 17.683
+    },
+    {
+      "word": "aur",
+      "start": 17.683,
+      "end": 18.145
+    },
+    {
+      "word": "shelter",
+      "start": 18.145,
+      "end": 18.607
+    },
+    {
+      "word": "milna",
+      "start": 18.607,
+      "end": 19.07
+    },
+    {
+      "word": "aasan",
+      "start": 19.07,
+      "end": 19.533
+    },
+    {
+      "word": "lagta",
+      "start": 19.532,
+      "end": 19.995
+    },
+    {
+      "word": "hai",
+      "start": 19.995,
+      "end": 20.458
+    },
+    {
+      "word": "bilkul.",
+      "start": 20.457,
+      "end": 20.92
+    },
+    {
+      "word": "Lekin",
+      "start": 21.38,
+      "end": 21.897
+    },
+    {
+      "word": "biology",
+      "start": 21.897,
+      "end": 22.414
+    },
+    {
+      "word": "ye",
+      "start": 22.414,
+      "end": 22.931
+    },
+    {
+      "word": "kehti",
+      "start": 22.931,
+      "end": 23.448
+    },
+    {
+      "word": "hai",
+      "start": 23.448,
+      "end": 23.965
+    },
+    {
+      "word": "ki",
+      "start": 23.965,
+      "end": 24.482
+    },
+    {
+      "word": "genetic",
+      "start": 24.482,
+      "end": 24.999
+    },
+    {
+      "word": "diversity",
+      "start": 24.999,
+      "end": 25.516
+    },
+    {
+      "word": "zero",
+      "start": 25.516,
+      "end": 26.033
+    },
+    {
+      "word": "ho",
+      "start": 26.033,
+      "end": 26.55
+    },
+    {
+      "word": "jayegi.",
+      "start": 26.55,
+      "end": 27.067
+    },
+    {
+      "word": "Ye",
+      "start": 27.017,
+      "end": 27.767
+    },
+    {
+      "word": "sach",
+      "start": 27.767,
+      "end": 28.517
+    },
+    {
+      "word": "hai!",
+      "start": 28.517,
+      "end": 29.267
+    },
+    {
+      "word": "Inbreeding",
+      "start": 29.77,
+      "end": 30.275
+    },
+    {
+      "word": "depression",
+      "start": 30.275,
+      "end": 30.78
+    },
+    {
+      "word": "se",
+      "start": 30.78,
+      "end": 31.286
+    },
+    {
+      "word": "agli",
+      "start": 31.286,
+      "end": 31.791
+    },
+    {
+      "word": "generation",
+      "start": 31.791,
+      "end": 32.296
+    },
+    {
+      "word": "survive",
+      "start": 32.296,
+      "end": 32.801
+    },
+    {
+      "word": "hi",
+      "start": 32.801,
+      "end": 33.306
+    },
+    {
+      "word": "nahi",
+      "start": 33.306,
+      "end": 33.812
+    },
+    {
+      "word": "kar",
+      "start": 33.812,
+      "end": 34.317
+    },
+    {
+      "word": "payegi",
+      "start": 34.317,
+      "end": 34.822
+    },
+    {
+      "word": "bilkul",
+      "start": 34.822,
+      "end": 35.327
+    },
+    {
+      "word": "bhi.",
+      "start": 35.327,
+      "end": 35.832
+    },
+    {
+      "word": "Toh",
+      "start": 36.29,
+      "end": 36.724
+    },
+    {
+      "word": "kya",
+      "start": 36.724,
+      "end": 37.158
+    },
+    {
+      "word": "2",
+      "start": 37.158,
+      "end": 37.592
+    },
+    {
+      "word": "log",
+      "start": 37.592,
+      "end": 38.026
+    },
+    {
+      "word": "sach",
+      "start": 38.026,
+      "end": 38.46
+    },
+    {
+      "word": "mein",
+      "start": 38.46,
+      "end": 38.895
+    },
+    {
+      "word": "humanity",
+      "start": 38.895,
+      "end": 39.329
+    },
+    {
+      "word": "restart",
+      "start": 39.329,
+      "end": 39.763
+    },
+    {
+      "word": "kar",
+      "start": 39.763,
+      "end": 40.197
+    },
+    {
+      "word": "sakte",
+      "start": 40.197,
+      "end": 40.631
+    },
+    {
+      "word": "hain?",
+      "start": 40.631,
+      "end": 41.065
+    },
+    {
+      "word": "Comment",
+      "start": 41.015,
+      "end": 41.694
+    },
+    {
+      "word": "mein",
+      "start": 41.694,
+      "end": 42.373
+    },
+    {
+      "word": "likho!",
+      "start": 42.373,
+      "end": 43.053
+    }
+  ]
+}

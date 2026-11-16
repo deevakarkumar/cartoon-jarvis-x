@@ -1,0 +1,199 @@
+{
+  "title": "How One Small Habit Completely Transformed My Entire School Life",
+  "language": "en",
+  "is_5min": false,
+  "aspect_ratio": "9:16",
+  "bg_style": "school_classroom",
+  "primary_prop": "book",
+  "science_metric": {
+    "title": "ACADEMIC PERFORMANCE INDEX",
+    "subtitle": "DAILY HABIT EFFICIENCY vs GRADES",
+    "from": 10.0,
+    "to": 98.5,
+    "unit": "%",
+    "label_start": "Start (10%)",
+    "label_mid": "Average (50%)",
+    "label_end": "Top Rank (98.5%)"
+  },
+  "comparison_bars": [
+    {
+      "label": "BEFORE HABIT",
+      "v": 0.2,
+      "color": "#ff5555"
+    },
+    {
+      "label": "AFTER HABIT",
+      "v": 0.95,
+      "color": "#7ee787"
+    }
+  ],
+  "crisis_alert": {
+    "label": "SCHOOL STATUS",
+    "value": "ACADEMIC COMEBACK DETECTED"
+  },
+  "youtube_kit": {
+    "viral_titles": [
+      "How I Went From Worst To First In School",
+      "The Secret School Habit That Changes Everything",
+      "Why Your Grades Are Stuck And How To Fix Them"
+    ],
+    "seo_description": "Discover how one tiny daily habit completely transformed my school life from failing grades to top of the class. Watch until the end to see the exact blueprint for your own academic comeback.",
+    "tags": [
+      "school life",
+      "study tips",
+      "habits",
+      "student motivation",
+      "success",
+      "grades",
+      "focus",
+      "lifestyle",
+      "animation",
+      "story"
+    ],
+    "hashtags": [
+      "#SchoolLife",
+      "#StudyTips",
+      "#Motivation",
+      "#Shorts",
+      "#Student"
+    ],
+    "pinned_comment": "What is your biggest struggle in school right now? Let me know below!",
+    "thumbnail_hook": "WORST TO FIRST",
+    "thumbnail_prop": "trophy_cup"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "beat": "Inciting Reality",
+      "narration": "You sit at the back desk. Failing every single test.",
+      "visual_description": "A stressed stick-figure student staring at a desk covered in failing test papers inside a classroom.",
+      "image_prompt": "empty school classroom with messy desks, glowing green chalkboard, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "slouching",
+      "expression": "shocked",
+      "bg_style": "school_classroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "GRADE: F",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "book",
+          "scale": 1.0
+        }
+      ],
+      "sfx": "drone_hit"
+    },
+    {
+      "scene_id": 2,
+      "beat": "The Turning Point",
+      "narration": "One simple rule changed everything. Study twenty minutes every single night.",
+      "visual_description": "A stick-figure student holding a small alarm clock and opening a textbook with a determined look.",
+      "image_prompt": "cozy desk with an open book and glowing lamp at night, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "pointing_up",
+      "expression": "thinking",
+      "bg_style": "cozy_bedroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "RULE: 20 MIN",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "stopwatch",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "pop"
+    },
+    {
+      "scene_id": 3,
+      "beat": "Compounding Struggle",
+      "narration": "Consistency hurt at first. Distractions tried pulling you back down.",
+      "visual_description": "A stick-figure student fighting sleep while looking at a glowing smartphone device on the desk.",
+      "image_prompt": "dark bedroom with a bright phone screen glowing on a tired student, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "exhausted",
+      "expression": "sleepy",
+      "bg_style": "cozy_bedroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "DAY 07",
+      "shake": 0.2,
+      "props": [
+        {
+          "type": "phone_device",
+          "scale": 1.1
+        }
+      ],
+      "sfx": "power_down"
+    },
+    {
+      "scene_id": 4,
+      "beat": "Critical Test",
+      "narration": "Then the big exam arrived. Questions suddenly felt incredibly easy.",
+      "visual_description": "A confident stick-figure student writing rapidly on a test paper with a bright lightbulb overhead.",
+      "image_prompt": "bright school examination room with rows of desks, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "typing",
+      "expression": "smirk",
+      "bg_style": "school_classroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "EXAM DAY",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "lightbulb_idea",
+          "scale": 1.3
+        }
+      ],
+      "sfx": "ding"
+    },
+    {
+      "scene_id": 5,
+      "beat": "Transformed Reality",
+      "narration": "Top grades secured. Teachers noticed. Your entire social standing completely flipped.",
+      "visual_description": "A happy stick-figure student holding a gold trophy inside a cheering school hallway.",
+      "image_prompt": "bright school hallway with lockers and confetti falling, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "celebrating",
+      "expression": "happy",
+      "bg_style": "school_classroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "RANK: #1",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "gold_medal",
+          "scale": 1.4
+        }
+      ],
+      "sfx": "title_boom"
+    },
+    {
+      "scene_id": 6,
+      "beat": "Moral & Call to Action",
+      "narration": "Small daily habits build unstoppable futures. Will you start yours today?",
+      "visual_description": "A stick-figure student pointing directly at the camera with a glowing target graphic in the background.",
+      "image_prompt": "minimalist classroom background with a giant glowing target bullseye, minimalist 2d vector anime style, 9:16 vertical",
+      "char_pose": "pointing",
+      "expression": "normal",
+      "bg_style": "school_classroom",
+      "characters": [
+        "HERO"
+      ],
+      "badge": "START NOW",
+      "shake": 0.0,
+      "props": [
+        {
+          "type": "target_bullseye",
+          "scale": 1.2
+        }
+      ],
+      "sfx": "whoosh"
+    }
+  ],
+  "source": "gemini_ai"
+}

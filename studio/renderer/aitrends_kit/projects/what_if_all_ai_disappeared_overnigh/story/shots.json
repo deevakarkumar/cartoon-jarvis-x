@@ -1,0 +1,175 @@
+{
+  "title": "What If ALL AI Disappeared Overnight?",
+  "duration": 50.27,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 7.17,
+      "line": "Imagine. One morning, all AI vanishes. Your phone is dead.",
+      "scene": "Instant Shock: AI Disappears - bedroom",
+      "set": "bedroom",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: Instant Shock: AI Disappears"
+    },
+    {
+      "id": "s002",
+      "start": 7.17,
+      "end": 15.9,
+      "line": "Traffic lights fail. Banks freeze. Global systems halt. Instant chaos.",
+      "scene": "Immediate Escalation: Global Effect - cityStreet",
+      "set": "cityStreet",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -3
+        },
+        {
+          "at": 0.15,
+          "name": "glitch",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: Immediate Escalation: Global Effect"
+    },
+    {
+      "id": "s003",
+      "start": 15.9,
+      "end": 25.15,
+      "line": "Supply chains shatter. Power grids fail. Food disappears fast. Panic spreads.",
+      "scene": "Compounding Chaos: Supply Chain Collapse - classroom",
+      "set": "classroom",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.05,
+          "name": "impact",
+          "gain": -4
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: Compounding Chaos: Supply Chain Collapse"
+    },
+    {
+      "id": "s004",
+      "start": 25.15,
+      "end": 34.12,
+      "line": "AI manages everything. Logistics, medicine, communication. It's our invisible backbone.",
+      "scene": "Hidden Science: AI's Invisible Role - highTechServer",
+      "set": "highTechServer",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "ding",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: Hidden Science: AI's Invisible Role"
+    },
+    {
+      "id": "s005",
+      "start": 34.12,
+      "end": 42.7,
+      "line": "No AI means no modern world. Society collapses. We return to dark ages.",
+      "scene": "Extreme Climax: System Overload - ruinsWasteland",
+      "set": "ruinsWasteland",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -5
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: Extreme Climax: System Overload"
+    },
+    {
+      "id": "s006",
+      "start": 42.7,
+      "end": 49.07,
+      "line": "Can we survive without it? Or is AI now essential for humanity's future?",
+      "scene": "Mind-Blowing Dilemma Question - spaceVoid",
+      "set": "spaceVoid",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.0,
+          "name": "whoosh",
+          "gain": -7
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: Mind-Blowing Dilemma Question"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 17.59,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 17.59,
+      "end": 37.7,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 37.7,
+      "end": 50.27,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}

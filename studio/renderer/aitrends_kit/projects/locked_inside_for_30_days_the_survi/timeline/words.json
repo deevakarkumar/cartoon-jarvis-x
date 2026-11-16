@@ -1,0 +1,459 @@
+{
+  "words": [
+    {
+      "word": "Shaam",
+      "start": 0.1,
+      "end": 1.208
+    },
+    {
+      "word": "4:07",
+      "start": 1.208,
+      "end": 2.317
+    },
+    {
+      "word": "baje.",
+      "start": 2.317,
+      "end": 3.425
+    },
+    {
+      "word": "School",
+      "start": 3.375,
+      "end": 3.879
+    },
+    {
+      "word": "ke",
+      "start": 3.879,
+      "end": 4.383
+    },
+    {
+      "word": "saare",
+      "start": 4.383,
+      "end": 4.887
+    },
+    {
+      "word": "darwaze",
+      "start": 4.888,
+      "end": 5.392
+    },
+    {
+      "word": "achanak",
+      "start": 5.392,
+      "end": 5.896
+    },
+    {
+      "word": "lock",
+      "start": 5.896,
+      "end": 6.4
+    },
+    {
+      "word": "ho",
+      "start": 6.4,
+      "end": 6.904
+    },
+    {
+      "word": "jaate",
+      "start": 6.904,
+      "end": 7.408
+    },
+    {
+      "word": "hain...",
+      "start": 7.408,
+      "end": 7.912
+    },
+    {
+      "word": "Click.",
+      "start": 7.912,
+      "end": 9.15
+    },
+    {
+      "word": "Andar",
+      "start": 9.67,
+      "end": 10.216
+    },
+    {
+      "word": "sirf",
+      "start": 10.216,
+      "end": 10.762
+    },
+    {
+      "word": "2",
+      "start": 10.762,
+      "end": 11.307
+    },
+    {
+      "word": "log",
+      "start": 11.307,
+      "end": 11.853
+    },
+    {
+      "word": "bache",
+      "start": 11.853,
+      "end": 12.399
+    },
+    {
+      "word": "hain.",
+      "start": 12.399,
+      "end": 12.945
+    },
+    {
+      "word": "Ek",
+      "start": 12.895,
+      "end": 13.33
+    },
+    {
+      "word": "aap...",
+      "start": 13.33,
+      "end": 13.765
+    },
+    {
+      "word": "aur",
+      "start": 13.765,
+      "end": 14.201
+    },
+    {
+      "word": "ek",
+      "start": 14.201,
+      "end": 14.636
+    },
+    {
+      "word": "wo",
+      "start": 14.636,
+      "end": 15.071
+    },
+    {
+      "word": "jisse",
+      "start": 15.071,
+      "end": 15.506
+    },
+    {
+      "word": "aapne",
+      "start": 15.506,
+      "end": 15.942
+    },
+    {
+      "word": "kabhi",
+      "start": 15.942,
+      "end": 16.377
+    },
+    {
+      "word": "baat",
+      "start": 16.377,
+      "end": 16.812
+    },
+    {
+      "word": "nahi",
+      "start": 16.812,
+      "end": 17.247
+    },
+    {
+      "word": "ki.",
+      "start": 17.247,
+      "end": 17.682
+    },
+    {
+      "word": "Day",
+      "start": 18.2,
+      "end": 18.736
+    },
+    {
+      "word": "3:",
+      "start": 18.736,
+      "end": 19.273
+    },
+    {
+      "word": "Vending",
+      "start": 19.273,
+      "end": 19.809
+    },
+    {
+      "word": "machine",
+      "start": 19.809,
+      "end": 20.345
+    },
+    {
+      "word": "ke",
+      "start": 20.345,
+      "end": 20.882
+    },
+    {
+      "word": "84",
+      "start": 20.882,
+      "end": 21.418
+    },
+    {
+      "word": "snacks",
+      "start": 21.418,
+      "end": 21.955
+    },
+    {
+      "word": "khatam",
+      "start": 21.955,
+      "end": 22.491
+    },
+    {
+      "word": "ho",
+      "start": 22.491,
+      "end": 23.027
+    },
+    {
+      "word": "chuke",
+      "start": 23.027,
+      "end": 23.564
+    },
+    {
+      "word": "hain.",
+      "start": 23.564,
+      "end": 24.1
+    },
+    {
+      "word": "Survival",
+      "start": 24.05,
+      "end": 24.828
+    },
+    {
+      "word": "shuru",
+      "start": 24.828,
+      "end": 25.606
+    },
+    {
+      "word": "hota",
+      "start": 25.606,
+      "end": 26.384
+    },
+    {
+      "word": "hai.",
+      "start": 26.384,
+      "end": 27.162
+    },
+    {
+      "word": "Day",
+      "start": 27.67,
+      "end": 28.129
+    },
+    {
+      "word": "10:",
+      "start": 28.129,
+      "end": 28.589
+    },
+    {
+      "word": "Khidki",
+      "start": 28.589,
+      "end": 29.048
+    },
+    {
+      "word": "ke",
+      "start": 29.048,
+      "end": 29.508
+    },
+    {
+      "word": "bahar",
+      "start": 29.508,
+      "end": 29.967
+    },
+    {
+      "word": "20",
+      "start": 29.967,
+      "end": 30.426
+    },
+    {
+      "word": "lakh",
+      "start": 30.426,
+      "end": 30.886
+    },
+    {
+      "word": "log",
+      "start": 30.886,
+      "end": 31.345
+    },
+    {
+      "word": "live",
+      "start": 31.345,
+      "end": 31.804
+    },
+    {
+      "word": "dekh",
+      "start": 31.804,
+      "end": 32.264
+    },
+    {
+      "word": "rahe",
+      "start": 32.264,
+      "end": 32.723
+    },
+    {
+      "word": "hain.",
+      "start": 32.723,
+      "end": 33.182
+    },
+    {
+      "word": "Par",
+      "start": 33.132,
+      "end": 33.857
+    },
+    {
+      "word": "andar",
+      "start": 33.857,
+      "end": 34.582
+    },
+    {
+      "word": "sannaata",
+      "start": 34.583,
+      "end": 35.307
+    },
+    {
+      "word": "hai.",
+      "start": 35.307,
+      "end": 36.033
+    },
+    {
+      "word": "Day",
+      "start": 36.54,
+      "end": 37.067
+    },
+    {
+      "word": "21:",
+      "start": 37.067,
+      "end": 37.595
+    },
+    {
+      "word": "Bahar",
+      "start": 37.595,
+      "end": 38.123
+    },
+    {
+      "word": "minus",
+      "start": 38.123,
+      "end": 38.65
+    },
+    {
+      "word": "15",
+      "start": 38.65,
+      "end": 39.177
+    },
+    {
+      "word": "degree",
+      "start": 39.177,
+      "end": 39.705
+    },
+    {
+      "word": "thand",
+      "start": 39.705,
+      "end": 40.232
+    },
+    {
+      "word": "hai...",
+      "start": 40.232,
+      "end": 40.76
+    },
+    {
+      "word": "aur",
+      "start": 40.76,
+      "end": 41.287
+    },
+    {
+      "word": "heating",
+      "start": 41.287,
+      "end": 41.815
+    },
+    {
+      "word": "system",
+      "start": 41.815,
+      "end": 42.342
+    },
+    {
+      "word": "band",
+      "start": 42.342,
+      "end": 42.87
+    },
+    {
+      "word": "ho",
+      "start": 42.87,
+      "end": 43.397
+    },
+    {
+      "word": "jata",
+      "start": 43.397,
+      "end": 43.925
+    },
+    {
+      "word": "hai.",
+      "start": 43.925,
+      "end": 44.452
+    },
+    {
+      "word": "Ab",
+      "start": 44.91,
+      "end": 45.39
+    },
+    {
+      "word": "yeh",
+      "start": 45.39,
+      "end": 45.87
+    },
+    {
+      "word": "game",
+      "start": 45.87,
+      "end": 46.35
+    },
+    {
+      "word": "nahi",
+      "start": 46.35,
+      "end": 46.83
+    },
+    {
+      "word": "raha.",
+      "start": 46.83,
+      "end": 47.31
+    },
+    {
+      "word": "Agar",
+      "start": 47.26,
+      "end": 47.709
+    },
+    {
+      "word": "aap",
+      "start": 47.709,
+      "end": 48.158
+    },
+    {
+      "word": "fass",
+      "start": 48.158,
+      "end": 48.606
+    },
+    {
+      "word": "gaye,",
+      "start": 48.606,
+      "end": 49.055
+    },
+    {
+      "word": "toh",
+      "start": 49.055,
+      "end": 49.504
+    },
+    {
+      "word": "aap",
+      "start": 49.504,
+      "end": 49.953
+    },
+    {
+      "word": "pehla",
+      "start": 49.953,
+      "end": 50.401
+    },
+    {
+      "word": "kadam",
+      "start": 50.401,
+      "end": 50.85
+    },
+    {
+      "word": "kya",
+      "start": 50.85,
+      "end": 51.299
+    },
+    {
+      "word": "uthayenge?",
+      "start": 51.299,
+      "end": 51.748
+    }
+  ]
+}

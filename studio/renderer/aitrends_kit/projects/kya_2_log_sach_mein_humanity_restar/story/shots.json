@@ -1,0 +1,176 @@
+{
+  "title": "Kya 2 Log Sach Mein Humanity Restart Kar Sakte Hain?",
+  "duration": 44.65,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 7.77,
+      "line": "Sirf do log bache hain! Kya ye poori humanity ko wapas la sakte hain?",
+      "scene": "cold_hook - ruinsWasteland",
+      "set": "ruinsWasteland",
+      "bars": "scope",
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: cold_hook"
+    },
+    {
+      "id": "s002",
+      "start": 7.77,
+      "end": 15.27,
+      "line": "Socho earth par bas aap aur ek aur insan ho. Par ek catch hai!",
+      "scene": "the_premise - ruinsWasteland",
+      "set": "ruinsWasteland",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "pop",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_premise"
+    },
+    {
+      "id": "s003",
+      "start": 15.27,
+      "end": 21.28,
+      "line": "Pehle kuch saalon tak khana aur shelter milna aasan lagta hai bilkul.",
+      "scene": "the_fun_part - cityStreet",
+      "set": "cityStreet",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "ding",
+          "gain": -10
+        }
+      ],
+      "amb": {
+        "name": "murmur",
+        "gain": -26
+      },
+      "notes": "beat: the_fun_part"
+    },
+    {
+      "id": "s004",
+      "start": 21.28,
+      "end": 29.67,
+      "line": "Lekin biology ye kehti hai ki genetic diversity zero ho jayegi. Ye sach hai!",
+      "scene": "the_science_turn - lab",
+      "set": "lab",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "impact",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_science_turn"
+    },
+    {
+      "id": "s005",
+      "start": 29.67,
+      "end": 36.19,
+      "line": "Inbreeding depression se agli generation survive hi nahi kar payegi bilkul bhi.",
+      "scene": "the_friction_wall - lab",
+      "set": "lab",
+      "bars": null,
+      "in": {
+        "type": "flash",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.2,
+          "name": "slowmo",
+          "gain": -8
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_friction_wall"
+    },
+    {
+      "id": "s006",
+      "start": 36.19,
+      "end": 43.45,
+      "line": "Toh kya 2 log sach mein humanity restart kar sakte hain? Comment mein likho!",
+      "scene": "the_cliffhanger_cta - ruinsWasteland",
+      "set": "ruinsWasteland",
+      "bars": null,
+      "in": {
+        "type": "cut",
+        "dur": 0.35
+      },
+      "sfx": [
+        {
+          "at": 0.1,
+          "name": "stinger",
+          "gain": -6
+        }
+      ],
+      "amb": {
+        "name": "roomtone",
+        "gain": -26
+      },
+      "notes": "beat: the_cliffhanger_cta"
+    }
+  ],
+  "music": [
+    {
+      "start": 0,
+      "end": 15.63,
+      "mood": "mystery",
+      "intensity": 0.45
+    },
+    {
+      "start": 15.63,
+      "end": 33.49,
+      "mood": "tension",
+      "intensity": 0.65
+    },
+    {
+      "start": 33.49,
+      "end": 44.65,
+      "mood": "wonder",
+      "intensity": 0.75
+    }
+  ]
+}
